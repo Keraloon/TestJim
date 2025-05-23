@@ -1,18 +1,16 @@
-/* Styles communs */
 body {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
-    font-family: 'Noto Sans', sans-serif; /* Utilisation de la police Noto Sans */
-    background-image: url('https://cdn.glitch.global/62fd2177-60b5-4850-b92b-549234d1da1a/Screen.png?v=1723023919686');
+    font-family: 'Noto Sans', sans-serif;
+    background-image: url('https://keraloon.github.io/TestJim/Images/Screen.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
-/* Styles pour la page principale */
 .main-container {
     display: flex;
     gap: 20px;
@@ -62,10 +60,9 @@ body {
 
 .main-button:hover {
     background-color: #0056b3;
-    transform: scale(1.05); /* Ajout d'une légère transformation pour effet visuel */
+    transform: scale(1.05);
 }
 
-/* Styles pour la page des sites */
 .container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -97,26 +94,23 @@ body {
     background-color: #0056b3;
 }
 
-/* Styles pour la page des playlists */
 .playlist-container {
     display: flex;
     padding: 20px;
-    height: calc(100vh - 40px); /* Ajuste la hauteur en fonction du bouton retour */
+    height: calc(100vh - 40px);
     box-sizing: border-box;
 }
 
-
-
 .sidebar {
-    width: 220px; /* Augmente légèrement la largeur de la sidebar */
+    width: 220px; 
     display: flex;
     flex-direction: column;
-    gap: 15px; /* Augmente l'espace entre les boutons */
-    padding-right: 30px; /* Augmente l'espace à droite de la sidebar */
+    gap: 15px;
+    padding-right: 30px;
     border-right: 2px solid #ccc;
-    position: fixed; /* Fixe la sidebar à gauche */
-    top: 80px; /* Ajuste la position par rapport au bouton retour */
-    left: 20px; /* Positionne à gauche de l'écran */
+    position: fixed;
+    top: 80px;
+    left: 20px;
 }
 
 
@@ -124,7 +118,7 @@ body {
     background-color: #444444;
     color: white;
     border: none;
-    padding: 12px; /* Augmente le padding pour des boutons plus grands */
+    padding: 12px;
     border-radius: 10px;
     cursor: pointer;
     font-size: 16px;
@@ -189,14 +183,12 @@ body {
 }
 
 .sidebar .theme-button:hover {
-    background-color: #333366; /* Changement de couleur au survol pour tous les boutons */
-    transform: scale(1.05); /* Légère augmentation de taille */
+    background-color: #333366;
+    transform: scale(1.05);
 }
 
-
-/* Styles pour le bouton Test 0 */
 .test0-button {
-    background-color: #444488; /* Couleur différente pour le bouton Test 0 */
+    background-color: #444488;
     color: white;
     border: none;
     padding: 12px;
@@ -207,12 +199,12 @@ body {
 }
 
 .test0-button:hover {
-    background-color: #0066cc; /* Couleur de survol différente pour le bouton Test 0 */
+    background-color: #0066cc;
 }
 
 .videos {
     flex: 1;
-    margin-left: 100px; /* Augmente la marge pour faire plus de place pour la sidebar */
+    margin-left: 100px; 
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -221,43 +213,40 @@ body {
 
 #theme-title {
     font-family: 'Noto Sans', sans-serif; 
-    color: white; /* Changer la couleur du texte en blanc */
-    font-size: 2rem; /* Ajuster la taille de la police à votre convenance */
+    color: white;
+    font-size: 2rem;
     margin-bottom: 20px;
 }
 
 #video-list {
     display: grid;
-    grid-template-columns: repeat(5, 1fr); /* Définit 5 colonnes de largeur égale */
-    gap: 20px; /* Espacement entre les vidéos */
-    justify-content: center; /* Centre les vidéos horizontalement dans le conteneur */
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+    justify-content: center;
 }
 
-/* Général pour toutes les barres de défilement (Chrome, Safari) */
 ::-webkit-scrollbar {
-    width: 12px; /* Largeur plus visible */
+    width: 12px;
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: rgba(0, 0, 0, 0.5); /* Couleur plus visible du curseur */
-    border-radius: 6px; /* Bordures arrondies */
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 6px;
 }
 
 ::-webkit-scrollbar-track {
-    background: rgba(0, 0, 0, 0.2); /* Couleur de la piste plus contrastée */
+    background: rgba(0, 0, 0, 0.2);
 }
 
-/* Pour Firefox */
 .scrollable {
-    scrollbar-width: auto; /* Utilisez auto pour une largeur plus visible */
-    scrollbar-color: rgba(0, 0, 0, 0.5) rgba(0, 0, 0, 0.2); /* Couleur plus visible du curseur et de la piste */
+    scrollbar-width: auto;
+    scrollbar-color: rgba(0, 0, 0, 0.5) rgba(0, 0, 0, 0.2);
 }
 
-/* Styles pour les éléments de vidéo */
 .video-item {
-    width: 100%; /* Assure que chaque vidéo utilise toute la largeur de sa cellule */
-    text-align: center; /* Centre le texte sous l'image */
-    box-sizing: border-box; /* Assure que le padding et la bordure sont inclus dans la largeur */
+    width: 100%;
+    text-align: center;
+    box-sizing: border-box;
 }
 
 .video-item img {
@@ -267,17 +256,17 @@ body {
 }
 
 .video-item .video-title {
-    color: white; /* Couleur du texte du titre de la vidéo */
+    color: white;
     font-family: 'Noto Sans', sans-serif; 
-    font-size: 0.85rem; /* Ajuster la taille de la police du titre */
-    margin-top: 10px; /* Espace entre l'image et le titre */
-    width: 260px; /* Assure que le titre ne dépasse pas la largeur de l'image */
-    white-space: nowrap; /* Empêche le texte de se casser en plusieurs lignes */
-    overflow: hidden; /* Cache le texte qui dépasse */
-    text-overflow: ellipsis; /* Affiche des points de suspension (...) pour le texte coupé */
+    font-size: 0.85rem;
+    margin-top: 10px;
+    width: 260px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
-/* Styles pour le bouton retour */
+
 .back-button {
     position: absolute;
     top: 20px;
@@ -296,7 +285,7 @@ body {
 }
 
 .random-button {
-    background-color: #884444; /* Une couleur différente pour le bouton aléatoire */
+    background-color: #884444;
     color: white;
     border: none;
     padding: 12px;
@@ -304,58 +293,57 @@ body {
     cursor: pointer;
     font-size: 16px;
     transition: background-color 0.3s;
-    margin-top: 15px; /* Ajoute de l'espace au-dessus du bouton */
+    margin-top: 15px;
 }
 
 .random-button:hover {
-    background-color: #cc6666; /* Couleur de survol */
+    background-color: #cc6666;
 }
 
 .test0-button:hover, .random-button:hover {
     background-color: #660066;
 }
 #stop-button {
-    background-color: red; /* Couleur de fond rouge */
-    color: white; /* Texte en blanc */
-    font-size: 14px; /* Taille de police plus petite */
-    padding: 8px 16px; /* Espacement autour du texte */
-    border: none; /* Retirer la bordure */
-    border-radius: 4px; /* Coins arrondis */
-    cursor: pointer; /* Curseur en forme de main */
-    transition: background-color 0.3s ease; /* Effet de transition sur la couleur de fond */
+    background-color: red;
+    color: white;
+    font-size: 14px;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
 }
 
 #stop-button:hover {
-    background-color: darkred; /* Changer la couleur en rouge foncé au survol */
+    background-color: darkred;
 }
 
 .insurgence-button {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #004488; /* Couleur de fond bleue */
-    color: white; /* Texte blanc */
-    font-weight: bold; /* Texte plus gras */
-    font-size: 22px; /* Taille du texte ajustée */
-    padding: 0; /* Suppression du padding pour garder la forme carrée */
-    width: 200px; /* Taille ajustée pour le bouton (plus grand) */
-    height: 200px; /* Hauteur ajustée pour garder le carré */
+    background-color: #004488;
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    padding: 0;
+    width: 200px;
+    height: 200px;
     border-radius: 10px;
     overflow: hidden;
     text-decoration: none;
     transition: background-color 0.3s;
     position: relative;
-    text-align: center; /* Centrage du texte */
+    text-align: center;
 }
 
 .insurgence-button:hover {
-    background-color: #0056b3; /* Couleur au survol */
-    /* Suppression du zoom */
+    background-color: #0056b3;
 }
 
 
 .insurgence-button:active {
-    transform: scale(0.95); /* Réduire légèrement le bouton lorsqu'il est cliqué */
+    transform: scale(0.95);
 }
 #volume-slider {
   position: fixed;
@@ -370,8 +358,8 @@ body {
   appearance: none;
   outline: none;
 
-  background: transparent; /* Couleur de fond du curseur */
-  border: none; /* Aucune bordure */
-  border-radius: 50%; /* Forme du curseur (ici, un cercle) */
+  background: transparent;
+  border: none;
+  border-radius: 50%;
   
 }
