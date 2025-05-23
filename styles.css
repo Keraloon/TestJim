@@ -1,0 +1,377 @@
+/* Styles communs */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Noto Sans', sans-serif; /* Utilisation de la police Noto Sans */
+    background-image: url('https://cdn.glitch.global/62fd2177-60b5-4850-b92b-549234d1da1a/Screen.png?v=1723023919686');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* Styles pour la page principale */
+.main-container {
+    display: flex;
+    gap: 20px;
+    padding: 40px;
+}
+
+.main-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #004488;
+    padding: 0;
+    width: 160px;
+    height: 160px;
+    border-radius: 10px;
+    overflow: hidden;
+    text-decoration: none;
+    transition: background-color 0.3s, transform 0.3s;
+    position: relative;
+}
+
+.button-content {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.main-button img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.text-overlay {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 14px;
+    width: calc(100% - 20px);
+}
+
+.main-button:hover {
+    background-color: #0056b3;
+    transform: scale(1.05); /* Ajout d'une légère transformation pour effet visuel */
+}
+
+/* Styles pour la page des sites */
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 40px;
+}
+
+.button {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #444444;
+    padding: 0;
+    width: 160px;
+    height: 160px;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: background-color 0.3s;
+}
+
+.button img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
+
+/* Styles pour la page des playlists */
+.playlist-container {
+    display: flex;
+    padding: 20px;
+    height: calc(100vh - 40px); /* Ajuste la hauteur en fonction du bouton retour */
+    box-sizing: border-box;
+}
+
+
+
+.sidebar {
+    width: 220px; /* Augmente légèrement la largeur de la sidebar */
+    display: flex;
+    flex-direction: column;
+    gap: 15px; /* Augmente l'espace entre les boutons */
+    padding-right: 30px; /* Augmente l'espace à droite de la sidebar */
+    border-right: 2px solid #ccc;
+    position: fixed; /* Fixe la sidebar à gauche */
+    top: 80px; /* Ajuste la position par rapport au bouton retour */
+    left: 20px; /* Positionne à gauche de l'écran */
+}
+
+
+.theme-button {
+    background-color: #444444;
+    color: white;
+    border: none;
+    padding: 12px; /* Augmente le padding pour des boutons plus grands */
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+:root {
+    --color1: #A08FCE;
+    --color2: #D6BF6F;
+    --color3: #7A9ACF;
+    --color4: #D1B89A;
+    --color5: #8AB3C9;
+    --color6: #9EC3A0;
+    --color7: #E4C37F;
+    --color8: #A28CC7;
+    --color9: #E1A65F;
+    --color10: #A2D0A3;
+    --color11: #2473DE;
+    --color12: #A122C4;
+}
+
+
+
+.sidebar .theme-button:nth-child(2) {
+    background-color: var(--color1);
+}
+
+.sidebar .theme-button:nth-child(3) {
+    background-color: var(--color2);
+}
+
+.sidebar .theme-button:nth-child(4) {
+    background-color: var(--color3);
+}
+
+.sidebar .theme-button:nth-child(5) {
+    background-color: var(--color4);
+}
+
+.sidebar .theme-button:nth-child(6) {
+    background-color: var(--color5);
+}
+
+.sidebar .theme-button:nth-child(7) {
+    background-color: var(--color6);
+}
+
+.sidebar .theme-button:nth-child(8) {
+    background-color: var(--color7);
+}
+.sidebar .theme-button:nth-child(9) {
+    background-color: var(--color8);
+}
+.sidebar .theme-button:nth-child(10) {
+    background-color: var(--color10);
+}
+.sidebar .theme-button:nth-child(11) {
+    background-color: var(--color11);
+}
+.sidebar .theme-button:nth-child(12) {
+    background-color: var(--color12);
+}
+
+.sidebar .theme-button:hover {
+    background-color: #333366; /* Changement de couleur au survol pour tous les boutons */
+    transform: scale(1.05); /* Légère augmentation de taille */
+}
+
+
+/* Styles pour le bouton Test 0 */
+.test0-button {
+    background-color: #444488; /* Couleur différente pour le bouton Test 0 */
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.test0-button:hover {
+    background-color: #0066cc; /* Couleur de survol différente pour le bouton Test 0 */
+}
+
+.videos {
+    flex: 1;
+    margin-left: 100px; /* Augmente la marge pour faire plus de place pour la sidebar */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-y: auto;
+}
+
+#theme-title {
+    font-family: 'Noto Sans', sans-serif; 
+    color: white; /* Changer la couleur du texte en blanc */
+    font-size: 2rem; /* Ajuster la taille de la police à votre convenance */
+    margin-bottom: 20px;
+}
+
+#video-list {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr); /* Définit 5 colonnes de largeur égale */
+    gap: 20px; /* Espacement entre les vidéos */
+    justify-content: center; /* Centre les vidéos horizontalement dans le conteneur */
+}
+
+/* Général pour toutes les barres de défilement (Chrome, Safari) */
+::-webkit-scrollbar {
+    width: 12px; /* Largeur plus visible */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.5); /* Couleur plus visible du curseur */
+    border-radius: 6px; /* Bordures arrondies */
+}
+
+::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.2); /* Couleur de la piste plus contrastée */
+}
+
+/* Pour Firefox */
+.scrollable {
+    scrollbar-width: auto; /* Utilisez auto pour une largeur plus visible */
+    scrollbar-color: rgba(0, 0, 0, 0.5) rgba(0, 0, 0, 0.2); /* Couleur plus visible du curseur et de la piste */
+}
+
+/* Styles pour les éléments de vidéo */
+.video-item {
+    width: 100%; /* Assure que chaque vidéo utilise toute la largeur de sa cellule */
+    text-align: center; /* Centre le texte sous l'image */
+    box-sizing: border-box; /* Assure que le padding et la bordure sont inclus dans la largeur */
+}
+
+.video-item img {
+    width: 260px;
+    height: auto;
+    border-radius: 5px;
+}
+
+.video-item .video-title {
+    color: white; /* Couleur du texte du titre de la vidéo */
+    font-family: 'Noto Sans', sans-serif; 
+    font-size: 0.85rem; /* Ajuster la taille de la police du titre */
+    margin-top: 10px; /* Espace entre l'image et le titre */
+    width: 260px; /* Assure que le titre ne dépasse pas la largeur de l'image */
+    white-space: nowrap; /* Empêche le texte de se casser en plusieurs lignes */
+    overflow: hidden; /* Cache le texte qui dépasse */
+    text-overflow: ellipsis; /* Affiche des points de suspension (...) pour le texte coupé */
+}
+
+/* Styles pour le bouton retour */
+.back-button {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background-color: #0056b3;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.back-button:hover {
+    background-color: #003d80;
+}
+
+.random-button {
+    background-color: #884444; /* Une couleur différente pour le bouton aléatoire */
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+    margin-top: 15px; /* Ajoute de l'espace au-dessus du bouton */
+}
+
+.random-button:hover {
+    background-color: #cc6666; /* Couleur de survol */
+}
+
+.test0-button:hover, .random-button:hover {
+    background-color: #660066;
+}
+#stop-button {
+    background-color: red; /* Couleur de fond rouge */
+    color: white; /* Texte en blanc */
+    font-size: 14px; /* Taille de police plus petite */
+    padding: 8px 16px; /* Espacement autour du texte */
+    border: none; /* Retirer la bordure */
+    border-radius: 4px; /* Coins arrondis */
+    cursor: pointer; /* Curseur en forme de main */
+    transition: background-color 0.3s ease; /* Effet de transition sur la couleur de fond */
+}
+
+#stop-button:hover {
+    background-color: darkred; /* Changer la couleur en rouge foncé au survol */
+}
+
+.insurgence-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #004488; /* Couleur de fond bleue */
+    color: white; /* Texte blanc */
+    font-weight: bold; /* Texte plus gras */
+    font-size: 22px; /* Taille du texte ajustée */
+    padding: 0; /* Suppression du padding pour garder la forme carrée */
+    width: 200px; /* Taille ajustée pour le bouton (plus grand) */
+    height: 200px; /* Hauteur ajustée pour garder le carré */
+    border-radius: 10px;
+    overflow: hidden;
+    text-decoration: none;
+    transition: background-color 0.3s;
+    position: relative;
+    text-align: center; /* Centrage du texte */
+}
+
+.insurgence-button:hover {
+    background-color: #0056b3; /* Couleur au survol */
+    /* Suppression du zoom */
+}
+
+
+.insurgence-button:active {
+    transform: scale(0.95); /* Réduire légèrement le bouton lorsqu'il est cliqué */
+}
+#volume-slider {
+  position: fixed;
+  left: 10px; 
+  top: 50%; 
+  transform: translateY(-50%) rotate(180deg);
+  width: 80px; 
+  height: 25vh; 
+  z-index: 1000; 
+  writing-mode: vertical-rl; 
+  -webkit-appearance: none;
+  appearance: none;
+  outline: none;
+
+  background: transparent; /* Couleur de fond du curseur */
+  border: none; /* Aucune bordure */
+  border-radius: 50%; /* Forme du curseur (ici, un cercle) */
+  
+}
