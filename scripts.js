@@ -470,7 +470,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=nG8yZs3BTh4",
         thumbnail: "https://img.youtube.com/vi/nG8yZs3BTh4/mqdefault.jpg",
       },
-      
+      {
+        title: "Video Game Music Gaylist To Wave Your Flag To",
+        url: "https://www.youtube.com/watch?v=DOnIdY3WObk",
+        thumbnail: "https://img.youtube.com/vi/DOnIdY3WObk/mqdefault.jpg",
+      },
     ],
     Chill: [
       {
