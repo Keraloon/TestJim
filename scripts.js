@@ -819,11 +819,6 @@ document.addEventListener("DOMContentLoaded", () => {
         thumbnail: "https://img.youtube.com/vi/Ai3tBIEgahg/mqdefault.jpg",
       },
       {
-        title: "2 Hours of VGMs that goes HARD",
-        url: "https://www.youtube.com/watch?v=RV24fRWj-zU",
-        thumbnail: "https://img.youtube.com/vi/RV24fRWj-zU/mqdefault.jpg",
-      },
-      {
         title: "1h45 of VGMs you *probably* never heard before",
         url: "https://www.youtube.com/watch?v=Bi38blshBHc",
         thumbnail: "https://img.youtube.com/vi/Bi38blshBHc/mqdefault.jpg",
@@ -842,6 +837,16 @@ document.addEventListener("DOMContentLoaded", () => {
         title: "Video Game Psychedelia (Playlist)",
         url: "https://www.youtube.com/watch?v=5Cg7n5OCLzg",
         thumbnail: "https://img.youtube.com/vi/5Cg7n5OCLzg/mqdefault.jpg",
+      },
+      {
+        title: "2 Hours of Video Game Music that goes HARD",
+        url: "https://www.youtube.com/watch?v=tGC8fozE8_k",
+        thumbnail: "https://img.youtube.com/vi/tGC8fozE8_k/mqdefault.jpg",
+      },
+      {
+        title: "2 Hours of Video Game Music that goes even HARDER",
+        url: "https://www.youtube.com/watch?v=g9wwdrKRm48",
+        thumbnail: "https://img.youtube.com/vi/g9wwdrKRm48/mqdefault.jpg",
       },
     ],
     Game: [
@@ -1761,11 +1766,6 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=LENnJSex9Z8",
         thumbnail: "https://img.youtube.com/vi/LENnJSex9Z8/mqdefault.jpg",
       },
-      {
-        title: "(BONUS PLAYLIST) 1 Hour of SONG Through VGMs",
-        url: "https://www.youtube.com/watch?v=asWzzDKdS78",
-        thumbnail: "https://img.youtube.com/vi/asWzzDKdS78/mqdefault.jpg",
-      },
     ],
   };
 
@@ -1778,18 +1778,18 @@ document.addEventListener("DOMContentLoaded", () => {
 
   randomButton.addEventListener("click", () => {
     const allVideos = Object.entries(videosByTheme)
-        .filter(([theme]) => theme !== "Lofi") // Exclut le thème "Lofi"
+        .filter(([theme]) => theme !== "Lofi")
         .flatMap(([_, videos]) => videos);
 
-    // Utilisation d'un Set pour obtenir des vidéos avec des URLs uniques
+
     const uniqueVideos = Array.from(
         new Map(allVideos.map((video) => [video.url, video])).values()
     );
 
-    const shuffledVideos = uniqueVideos.sort(() => 0.5 - Math.random()); // Mélange les vidéos
-    const randomVideos = shuffledVideos.slice(0, 10); // Prend les 10 premières vidéos mélangées
+    const shuffledVideos = uniqueVideos.sort(() => 0.5 - Math.random()); 
+    const randomVideos = shuffledVideos.slice(0, 10); 
 
-    videoList.innerHTML = ""; // Vide la liste actuelle
+    videoList.innerHTML = ""; 
     randomVideos.forEach(video => {
         const videoItem = document.createElement("div");
         videoItem.classList.add("video-item");
@@ -1810,15 +1810,11 @@ document.addEventListener("DOMContentLoaded", () => {
     videoList.innerHTML = "";
 
     if (theme === "all") {
-      // Rassembler toutes les vidéos
       const allVideos = Object.values(videosByTheme).flat();
-
-      // Utilisation d'un Map pour filtrer les vidéos avec des URLs uniques
       const uniqueVideos = Array.from(
         new Map(allVideos.map((video) => [video.url, video])).values()
       );
 
-      // Affichage des vidéos uniques
       uniqueVideos.forEach((video) => {
         const videoItem = document.createElement("div");
         videoItem.classList.add("video-item");
