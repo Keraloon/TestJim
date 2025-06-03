@@ -577,6 +577,26 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=HTGRLgioUAA",
         thumbnail: "https://img.youtube.com/vi/HTGRLgioUAA/mqdefault.jpg",
       },
+      {
+        title: "comfort video game mix ☾",
+        url: "https://www.youtube.com/watch?v=zVEIpCpD7hM",
+        thumbnail: "https://img.youtube.com/vi/zVEIpCpD7hM/mqdefault.jpg",
+      },
+      {
+        title: "technozen music mix ꩜",
+        url: "https://www.youtube.com/watch?v=dKZNRXMY_v0",
+        thumbnail: "https://img.youtube.com/vi/dKZNRXMY_v0/mqdefault.jpg",
+      },
+      {
+        title: "valentines playlist to make you feel loved ♡",
+        url: "https://www.youtube.com/watch?v=p39H1ThB4xc",
+        thumbnail: "https://img.youtube.com/vi/p39H1ThB4xc/mqdefault.jpg",
+      },
+      {
+        title: "video game music to float away to",
+        url: "https://www.youtube.com/watch?v=6BBgKWJRx1o",
+        thumbnail: "https://img.youtube.com/vi/6BBgKWJRx1o/mqdefault.jpg",
+      },
     ],
     Jazz: [
       {
