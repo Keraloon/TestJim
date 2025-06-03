@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const randomButton = document.querySelector(".random-button");
   const videoList = document.getElementById("video-list");
   const themeTitle = document.getElementById("theme-title");
-
+f
   const videosByTheme = {
     Alf: [
       {
@@ -1473,6 +1473,11 @@ document.addEventListener("DOMContentLoaded", () => {
         title: "Festive Nintendo Christmas Music 🎄 To enjoy your Winter Holidays 🎉",
         url: "https://www.youtube.com/watch?v=Zo5czaceCE0",
         thumbnail: "https://img.youtube.com/vi/Zo5czaceCE0/mqdefault.jpg",
+      },
+      {
+        title: "1 Hour of Nintendo Music for Workout",
+        url: "https://www.youtube.com/watch?v=0lfMhV0a2Ks",
+        thumbnail: "https://img.youtube.com/vi/0lfMhV0a2Ks/mqdefault.jpg",
       },
     ],
     Pokémon: [
