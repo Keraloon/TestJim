@@ -868,6 +868,11 @@ f
         url: "https://www.youtube.com/watch?v=g9wwdrKRm48",
         thumbnail: "https://img.youtube.com/vi/g9wwdrKRm48/mqdefault.jpg",
       },
+      {
+        title: "1h40 of Video Game Music to Drink a Little, Gamble a Lot (dans le jeu)",
+        url: "https://www.youtube.com/watch?v=kLu_LUkxVT4",
+        thumbnail: "https://img.youtube.com/vi/kLu_LUkxVT4/mqdefault.jpg",
+      },
     ],
     Game: [
       {
