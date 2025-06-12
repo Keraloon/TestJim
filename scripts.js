@@ -5,7 +5,6 @@ document.addEventListener("DOMContentLoaded", () => {
   const randomButton = document.querySelector(".random-button");
   const videoList = document.getElementById("video-list");
   const themeTitle = document.getElementById("theme-title");
-f
   const videosByTheme = {
     Alf: [
       {
