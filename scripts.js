@@ -1210,6 +1210,71 @@ document.addEventListener("DOMContentLoaded", () => {
         thumbnail: "https://img.youtube.com/vi/NI_KC9LlJrU/mqdefault.jpg",
       },
       {
+        title: "ＰＩＫＭＩＮ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=OKrNNZbhDSg",
+        thumbnail: "https://img.youtube.com/vi/OKrNNZbhDSg/mqdefault.jpg",
+      },
+      {
+        title: "𝐂𝐀𝐏𝐂𝐎𝐌 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=FUOGRrnEXzY",
+        thumbnail: "https://img.youtube.com/vi/FUOGRrnEXzY/mqdefault.jpg",
+      },
+      {
+        title: "𝙹𝙴𝚃 𝚂𝙴𝚃 𝚁𝙰𝙳𝙸𝙾 𝙵𝚄𝚃𝚄𝚁𝙴 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=eSDf-YLihJ0",
+        thumbnail: "https://img.youtube.com/vi/eSDf-YLihJ0/mqdefault.jpg",
+      },
+      {
+        title: "ᴛʜᴇ 𝐊𝐈𝐍𝐆 ᴏғ 𝙁𝙄𝙂𝙃𝙏𝙀𝙍𝙎 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=WKQmf8G6044",
+        thumbnail: "https://img.youtube.com/vi/WKQmf8G6044/mqdefault.jpg",
+      },
+      {
+        title: "𝐀𝐧𝐢𝐦𝐚𝐥 𝐂𝐫𝐨𝐬𝐬𝐢𝐧𝐠 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=Bnlrqq8_TTg",
+        thumbnail: "https://img.youtube.com/vi/Bnlrqq8_TTg/mqdefault.jpg",
+      },
+      {
+        title: "𝕂𝕆ℕ𝔸𝕄𝕀 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=yGaWKPDdlU8",
+        thumbnail: "https://img.youtube.com/vi/yGaWKPDdlU8/mqdefault.jpg",
+      },
+      {
+        title: "𝚃𝚑𝚎 𝐒𝓲𝐌𝐬 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=fM78-8lO1MA",
+        thumbnail: "https://img.youtube.com/vi/fM78-8lO1MA/mqdefault.jpg",
+      },
+      {
+        title: "𝐀𝐂𝐄 𝐂𝐎𝐌𝐁𝐀𝐓 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=zc3QVghgGJ8",
+        thumbnail: "https://img.youtube.com/vi/zc3QVghgGJ8/mqdefault.jpg",
+      },
+      {
+        title: "𝐊𝐈𝐍𝐆𝐃𝐎𝐌 𝐇𝐄𝐀𝐑𝐓𝐒 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=pFoi77MDH1Y",
+        thumbnail: "https://img.youtube.com/vi/pFoi77MDH1Y/mqdefault.jpg",
+      },
+      {
+        title: "𝕊𝔼𝔾𝔸 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=dx9TyB8cgB0",
+        thumbnail: "https://img.youtube.com/vi/dx9TyB8cgB0/mqdefault.jpg",
+      },
+      {
+        title: "𝐒𝐈𝐌𝐂𝐈𝐓𝐘 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=2FFRyNHA-G4",
+        thumbnail: "https://img.youtube.com/vi/2FFRyNHA-G4/mqdefault.jpg",
+      },
+      {
+        title: "𝙎𝙌𝙐𝘼𝙍𝙀𝙎𝙊𝙁𝙏 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=y4ex1rdbeME",
+        thumbnail: "https://img.youtube.com/vi/y4ex1rdbeME/mqdefault.jpg",
+      },
+      {
+        title: "𝙈𝙀𝙂𝘼𝙈𝘼𝙉 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=LWgqm_il9Wo",
+        thumbnail: "https://img.youtube.com/vi/LWgqm_il9Wo/mqdefault.jpg",
+      },
+      {
         title: "Persona 3 chill vibes - (OST mix to Study/Work/Walk)",
         url: "https://www.youtube.com/watch?v=0pJ4ht46unc",
         thumbnail: "https://img.youtube.com/vi/0pJ4ht46unc/mqdefault.jpg",
