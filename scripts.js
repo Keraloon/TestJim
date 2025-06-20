@@ -474,6 +474,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=DOnIdY3WObk",
         thumbnail: "https://img.youtube.com/vi/DOnIdY3WObk/mqdefault.jpg",
       },
+      {
+        title: "Video Game Music For Lording Over The Serfs",
+        url: "https://www.youtube.com/watch?v=xhoisoeD3_Y",
+        thumbnail: "https://img.youtube.com/vi/xhoisoeD3_Y/mqdefault.jpg",
+      },
     ],
     Chill: [
       {
