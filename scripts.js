@@ -479,6 +479,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=xhoisoeD3_Y",
         thumbnail: "https://img.youtube.com/vi/xhoisoeD3_Y/mqdefault.jpg",
       },
+      {
+        title: "Beachy Game Music To Get A Third Degree Sunburn To",
+        url: "https://www.youtube.com/watch?v=Fkz7FTiWALQ",
+        thumbnail: "https://img.youtube.com/vi/Fkz7FTiWALQ/mqdefault.jpg",
+      },
     ],
     Chill: [
       {
