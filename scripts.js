@@ -484,6 +484,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=Fkz7FTiWALQ",
         thumbnail: "https://img.youtube.com/vi/Fkz7FTiWALQ/mqdefault.jpg",
       },
+      {
+        title: "A Big Video Game Music Playlist For Getting Up To Some Big Mischief",
+        url: "https://www.youtube.com/watch?v=7xmNtIfsfM0",
+        thumbnail: "https://img.youtube.com/vi/7xmNtIfsfM0/mqdefault.jpg",
+      },
     ],
     Chill: [
       {
