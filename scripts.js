@@ -489,6 +489,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=ZdLWHkKxDQU",
         thumbnail: "https://img.youtube.com/vi/ZdLWHkKxDQU/mqdefault.jpg",
       },
+      {
+        title: "Desert Themes For Crawling Through The Sand Until You Become a Thin Piece of Jerky",
+        url: "https://www.youtube.com/watch?v=iHtrugOMY7w",
+        thumbnail: "https://img.youtube.com/vi/iHtrugOMY7w/mqdefault.jpg",
+      },
     ],
     Chill: [
       {
