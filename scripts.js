@@ -494,6 +494,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=iHtrugOMY7w",
         thumbnail: "https://img.youtube.com/vi/iHtrugOMY7w/mqdefault.jpg",
       },
+      {
+        title: "Video Game Music For Exploring A Dungeon Containing an Ancient Evil",
+        url: "https://www.youtube.com/watch?v=6noFGMbeqTY",
+        thumbnail: "https://img.youtube.com/vi/6noFGMbeqTY/mqdefault.jpg",
+      },
     ],
     Chill: [
       {
