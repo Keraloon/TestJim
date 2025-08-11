@@ -276,8 +276,8 @@ document.addEventListener("DOMContentLoaded", () => {
       },
       {
         title: "Video Game Music You Could Get Away With Playing Over the Coffee Shop Speakers:",
-        url: "https://www.youtube.com/watch?v=ltbVR1T3gIE",
-        thumbnail: "https://img.youtube.com/vi/ltbVR1T3gIE/mqdefault.jpg",
+        url: "https://www.youtube.com/watch?v=l97GOzZItSY",
+        thumbnail: "https://img.youtube.com/vi/l97GOzZItSY/mqdefault.jpg",
       },
       {
         title: "Video Game Music to Dissociate To",
