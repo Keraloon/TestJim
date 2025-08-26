@@ -499,6 +499,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=6noFGMbeqTY",
         thumbnail: "https://img.youtube.com/vi/6noFGMbeqTY/mqdefault.jpg",
       },
+      {
+        title: "Pause Menu Themes to Stop and Consider Your Life Choices To",
+        url: "https://www.youtube.com/watch?v=znuQwhpqsz4",
+        thumbnail: "https://img.youtube.com/vi/znuQwhpqsz4/mqdefault.jpg",
+      },
     ],
     Chill: [
       {
