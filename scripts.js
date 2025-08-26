@@ -981,8 +981,8 @@ document.addEventListener("DOMContentLoaded", () => {
       },
       {
         title: "(Not So) Relaxing Dragon Quest Playlist",
-        url: "https://www.youtube.com/watch?v=_VOJvqw00Ks",
-        thumbnail: "https://img.youtube.com/vi/_VOJvqw00Ks/mqdefault.jpg",
+        url: "https://www.youtube.com/watch?v=wBrsZ85m6ww",
+        thumbnail: "https://img.youtube.com/vi/wBrsZ85m6ww/mqdefault.jpg",
       },
       {
         title: "(Not Really) Relaxing Yu-Gi-Oh! Playlist to Duel People",
