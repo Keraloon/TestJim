@@ -504,6 +504,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=znuQwhpqsz4",
         thumbnail: "https://img.youtube.com/vi/znuQwhpqsz4/mqdefault.jpg",
       },
+      {
+        title: "Video Game Music For Enjoying a Rainy Day",
+        url: "https://www.youtube.com/watch?v=SZVP4AdD7o4",
+        thumbnail: "https://img.youtube.com/vi/SZVP4AdD7o4/mqdefault.jpg",
+      },
     ],
     Chill: [
       {
