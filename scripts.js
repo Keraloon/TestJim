@@ -915,11 +915,6 @@ document.addEventListener("DOMContentLoaded", () => {
     ],
     Game: [
       {
-        title: "2 Hours of Underrated Pokemon Music",
-        url: "https://www.youtube.com/watch?v=N8mqLn_pIb4",
-        thumbnail: "https://img.youtube.com/vi/N8mqLn_pIb4/mqdefault.jpg",
-      },
-      {
         title: "Best of Xenoblade Chronicles 2 OST",
         url: "https://www.youtube.com/watch?v=3yGcbQwx9JA",
         thumbnail: "https://img.youtube.com/vi/3yGcbQwx9JA/mqdefault.jpg",
@@ -1035,11 +1030,6 @@ document.addEventListener("DOMContentLoaded", () => {
         thumbnail: "https://img.youtube.com/vi/vXhv42rF8lY/mqdefault.jpg",
       },
       {
-        title: "Relaxing/Study Pokemon Sword & Shield Music Compilation",
-        url: "https://www.youtube.com/watch?v=a3_ZWTvbqcw",
-        thumbnail: "https://img.youtube.com/vi/a3_ZWTvbqcw/mqdefault.jpg",
-      },
-      {
         title: "Midnight Fight Express - Workout Mix",
         url: "https://www.youtube.com/watch?v=n9qkgHWe17E",
         thumbnail: "https://img.youtube.com/vi/n9qkgHWe17E/mqdefault.jpg",
@@ -1130,11 +1120,6 @@ document.addEventListener("DOMContentLoaded", () => {
         thumbnail: "https://img.youtube.com/vi/hhHopWDPRrY/mqdefault.jpg",
       },
       {
-        title: "ＤＯＮＫＥＹ ＫＯＮＧ ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=CUqhSKCkJRc",
-        thumbnail: "https://img.youtube.com/vi/CUqhSKCkJRc/mqdefault.jpg",
-      },
-      {
         title: "ＳＯＮＩＣ ᴛʜᴇ ʜᴇᴅɢᴇʜᴏɢ ᵐᵘˢⁱᶜ",
         url: "https://www.youtube.com/watch?v=bIvZ5WjaSiM",
         thumbnail: "https://img.youtube.com/vi/bIvZ5WjaSiM/mqdefault.jpg",
@@ -1188,11 +1173,6 @@ document.addEventListener("DOMContentLoaded", () => {
         title: "𝐀𝐩𝐨𝐥𝐥𝐨 𝐉𝐮𝐬𝐭𝐢𝐜𝐞: ᴀᴄᴇ ᴀᴛᴛᴏʀɴᴇʏ ᵐᵘˢⁱᶜ",
         url: "https://www.youtube.com/watch?v=GTaGWJ3ai8Q",
         thumbnail: "https://img.youtube.com/vi/GTaGWJ3ai8Q/mqdefault.jpg",
-      },
-      {
-        title: "𝐏𝐨𝐊𝐞́𝐌𝐨𝐍 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=BJgTVRYb99Q",
-        thumbnail: "https://img.youtube.com/vi/BJgTVRYb99Q/mqdefault.jpg",
       },
       {
         title: "𝐁𝐀𝐘𝐎𝐍𝐄𝐓𝐓𝐀 ᵐᵘˢⁱᶜ",
