@@ -1514,11 +1514,6 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=CV7HrNA68zQ",
         thumbnail: "https://img.youtube.com/vi/CV7HrNA68zQ/mqdefault.jpg",
       },
-      {
-        title: "ATLUS VIDEO GAME MUSIC PLAYLIST",
-        url: "https://www.youtube.com/watch?v=MhOPFWqgIqE",
-        thumbnail: "https://img.youtube.com/vi/MhOPFWqgIqE/mqdefault.jpg",
-      },
     ],
     Console: [
       {
