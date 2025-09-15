@@ -509,6 +509,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=SZVP4AdD7o4",
         thumbnail: "https://img.youtube.com/vi/SZVP4AdD7o4/mqdefault.jpg",
       },
+      {
+        title: "Lively Fantasy Town Themes",
+        url: "https://www.youtube.com/watch?v=qP2JXhwyBk0",
+        thumbnail: "https://img.youtube.com/vi/qP2JXhwyBk0/mqdefault.jpg",
+      },
     ],
     Chill: [
       {
@@ -911,6 +916,11 @@ document.addEventListener("DOMContentLoaded", () => {
         title: "1h40 of Video Game Music to Drink a Little, Gamble a Lot (dans le jeu)",
         url: "https://www.youtube.com/watch?v=kLu_LUkxVT4",
         thumbnail: "https://img.youtube.com/vi/kLu_LUkxVT4/mqdefault.jpg",
+      },
+      {
+        title: "Video Game Music for doing something evil like infiltrating a base",
+        url: "https://www.youtube.com/watch?v=7fTY355Uoj8",
+        thumbnail: "https://img.youtube.com/vi/7fTY355Uoj8/mqdefault.jpg",
       },
     ],
     Game: [
