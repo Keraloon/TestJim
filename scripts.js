@@ -514,6 +514,16 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=qP2JXhwyBk0",
         thumbnail: "https://img.youtube.com/vi/qP2JXhwyBk0/mqdefault.jpg",
       },
+      {
+        title: "Video Game Songs to Stop Producing Chlorophyll To (Autumn Vibes)",
+        url: "https://www.youtube.com/watch?v=vu0XjZ1KBq8",
+        thumbnail: "https://img.youtube.com/vi/vu0XjZ1KBq8/mqdefault.jpg",
+      },
+      {
+        title: "Boss Themes to Relive Your Video Game Trauma To",
+        url: "https://www.youtube.com/watch?v=IURcHEbmiE4",
+        thumbnail: "https://img.youtube.com/vi/IURcHEbmiE4/mqdefault.jpg",
+      },
     ],
     Chill: [
       {
