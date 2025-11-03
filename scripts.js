@@ -524,6 +524,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=IURcHEbmiE4",
         thumbnail: "https://img.youtube.com/vi/IURcHEbmiE4/mqdefault.jpg",
       },
+      {
+        title: "Video Game Music for Reminiscing About Things Long Gone (Lost Games + Features)",
+        url: "https://www.youtube.com/watch?v=MMgx9UdSkyA",
+        thumbnail: "https://img.youtube.com/vi/MMgx9UdSkyA/mqdefault.jpg",
+      },
     ],
     Chill: [
       {
