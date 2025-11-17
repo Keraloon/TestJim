@@ -529,6 +529,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=MMgx9UdSkyA",
         thumbnail: "https://img.youtube.com/vi/MMgx9UdSkyA/mqdefault.jpg",
       },
+      {
+        title: "Mountain Themes to Overcome Life’s Challenges To",
+        url: "https://www.youtube.com/watch?v=cy9VMBj_UxQ",
+        thumbnail: "https://img.youtube.com/vi/cy9VMBj_UxQ/mqdefault.jpg",
+      },
     ],
     Chill: [
       {
