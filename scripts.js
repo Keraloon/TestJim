@@ -534,6 +534,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=cy9VMBj_UxQ",
         thumbnail: "https://img.youtube.com/vi/cy9VMBj_UxQ/mqdefault.jpg",
       },
+      {
+        title: "Video Game Music My Viewers and I Think Bugs Would Like",
+        url: "https://www.youtube.com/watch?v=L-E0CvVEPjg",
+        thumbnail: "https://img.youtube.com/vi/L-E0CvVEPjg/mqdefault.jpg",
+      },
     ],
     Chill: [
       {
