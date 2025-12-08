@@ -539,6 +539,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=L-E0CvVEPjg",
         thumbnail: "https://img.youtube.com/vi/L-E0CvVEPjg/mqdefault.jpg",
       },
+      {
+        title: "Melancholy Video Game Music to Dramatically Sit in the Rain To",
+        url: "https://www.youtube.com/watch?v=xcjqVCs6qPc",
+        thumbnail: "https://img.youtube.com/vi/xcjqVCs6qPc/mqdefault.jpg",
+      },
     ],
     Chill: [
       {
