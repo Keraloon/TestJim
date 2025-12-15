@@ -544,6 +544,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=xcjqVCs6qPc",
         thumbnail: "https://img.youtube.com/vi/xcjqVCs6qPc/mqdefault.jpg",
       },
+      {
+        title: "We Must Acquire A Taste For Video Game Jazz",
+        url: "https://www.youtube.com/watch?v=5NA5-jst-Qg",
+        thumbnail: "https://img.youtube.com/vi/5NA5-jst-Qg/mqdefault.jpg",
+      },
     ],
     Chill: [
       {
