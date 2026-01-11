@@ -217,6 +217,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=zTfdQfQi-lE",
         thumbnail: "https://img.youtube.com/vi/zTfdQfQi-lE/mqdefault.jpg",
       },
+      {
+        title: "game music i like very much",
+        url: "https://www.youtube.com/watch?v=yG5f26b9lAo",
+        thumbnail: "https://img.youtube.com/vi/yG5f26b9lAo/mqdefault.jpg",
+      },
     ],
     Airedale: [
       {
@@ -549,6 +554,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=5NA5-jst-Qg",
         thumbnail: "https://img.youtube.com/vi/5NA5-jst-Qg/mqdefault.jpg",
       },
+      {
+        title: "Winter Themed Video Game Music To Hibernate To",
+        url: "https://www.youtube.com/watch?v=o8JxGxec32c",
+        thumbnail: "https://img.youtube.com/vi/o8JxGxec32c/mqdefault.jpg",
+      },
     ],
     Chill: [
       {
@@ -845,6 +855,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://youtu.be/4W09K9Gxp5w",
         thumbnail: "https://img.youtube.com/vi/4W09K9Gxp5w/mqdefault.jpg",
       },
+      {
+        title: "1h30 of Jamming Through VGM Volume 3 (With Even More Trumpets)",
+        url: "https://youtu.be/plK9DOl1oTQ",
+        thumbnail: "https://img.youtube.com/vi/plK9DOl1oTQ/mqdefault.jpg",
+      },
     ],
     Thèmes: [
       {
@@ -956,6 +971,26 @@ document.addEventListener("DOMContentLoaded", () => {
         title: "Video Game Music for doing something evil like infiltrating a base",
         url: "https://www.youtube.com/watch?v=7fTY355Uoj8",
         thumbnail: "https://img.youtube.com/vi/7fTY355Uoj8/mqdefault.jpg",
+      },
+      {
+        title: "2 Hours of Racing Games Music : Face A",
+        url: "https://www.youtube.com/watch?v=Jvisf_DEjSk",
+        thumbnail: "https://img.youtube.com/vi/Jvisf_DEjSk/mqdefault.jpg",
+      },
+      {
+        title: "2 Hours of Racing Games Music : Face B",
+        url: "https://www.youtube.com/watch?v=tSqK_n4uR6A",
+        thumbnail: "https://img.youtube.com/vi/tSqK_n4uR6A/mqdefault.jpg",
+      },
+      {
+        title: "3 Hours of Racing Games Music : Face C",
+        url: "https://www.youtube.com/watch?v=qSVawk3gQmU",
+        thumbnail: "https://img.youtube.com/vi/qSVawk3gQmU/mqdefault.jpg",
+      },
+      {
+        title: "(BONUS PLAYLIST) The Best of All the Playlists So Far",
+        url: "https://www.youtube.com/watch?v=6zlzrIoJJuU",
+        thumbnail: "https://img.youtube.com/vi/6zlzrIoJJuU/mqdefault.jpg",
       },
     ],
     Game: [
