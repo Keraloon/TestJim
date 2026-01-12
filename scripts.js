@@ -559,6 +559,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=o8JxGxec32c",
         thumbnail: "https://img.youtube.com/vi/o8JxGxec32c/mqdefault.jpg",
       },
+      {
+        title: "Video Game Music For Absolutely Biffing It On The Slopes",
+        url: "https://www.youtube.com/watch?v=YzGyyrCtRcE",
+        thumbnail: "https://img.youtube.com/vi/YzGyyrCtRcE/mqdefault.jpg",
+      },
     ],
     Chill: [
       {
