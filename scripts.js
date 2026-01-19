@@ -375,9 +375,9 @@ document.addEventListener("DOMContentLoaded", () => {
         thumbnail: "https://img.youtube.com/vi/n9482lvcOIw/mqdefault.jpg",
       },
       {
-        title: "No Theme Just Weird Video Game Music",
-        url: "https://www.youtube.com/watch?v=PJP5Aph9DkE",
-        thumbnail: "https://img.youtube.com/vi/PJP5Aph9DkE/mqdefault.jpg",
+        title: "Weird Video Game Music",
+        url: "https://www.youtube.com/watch?v=8h1cloGJ6f4",
+        thumbnail: "https://img.youtube.com/vi/8h1cloGJ6f4/mqdefault.jpg",
       },
       {
         title: "Songs To Listen To While You Escape To The One Place That Hasn't Been Corrupted by Capitalism",
