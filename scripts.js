@@ -564,6 +564,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=YzGyyrCtRcE",
         thumbnail: "https://img.youtube.com/vi/YzGyyrCtRcE/mqdefault.jpg",
       },
+      {
+        title: "Video Game Music to Drive Recklessly To",
+        url: "https://www.youtube.com/watch?v=CjRZcLzQ89w",
+        thumbnail: "https://img.youtube.com/vi/CjRZcLzQ89w/mqdefault.jpg",
+      },
     ],
     Chill: [
       {
