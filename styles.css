@@ -112,6 +112,7 @@ body {
     top: 80px;
     left: 20px;
     height: calc(100vh - 100px);
+    scrollbar-width: thin;
     overflow-y: auto;
 }
 
