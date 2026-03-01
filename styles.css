@@ -80,7 +80,7 @@ body {
     width: 160px;
     height: 160px;
     border-radius: 10px;
-    overflow: hidden;
+    overflow: auto;
     transition: background-color 0.3s;
 }
 
