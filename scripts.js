@@ -2556,7 +2556,7 @@ document.addEventListener("DOMContentLoaded", () => {
       },
       
     ],
-    Bank: [
+    Autres: [
       {
         title: "music literally every single youtuber* uses at least once (playlist)",
         url: "https://www.youtube.com/watch?v=ZMuP01GlQi4",
