@@ -138,6 +138,10 @@ body {
     --color10: #A2D0A3;
     --color11: #2473DE;
     --color12: #A122C4;
+    --color13: #A08412;
+    --color14: #1284A0;
+    --color15: #84A012;
+    --color16: #E1A204;
 }
 
 
@@ -180,6 +184,18 @@ body {
 }
 .sidebar .theme-button:nth-child(12) {
     background-color: var(--color12);
+}
+.sidebar .theme-button:nth-child(13) {
+    background-color: var(--color13);
+}
+.sidebar .theme-button:nth-child(14) {
+    background-color: var(--color14);
+}
+.sidebar .theme-button:nth-child(15) {
+    background-color: var(--color15);
+}
+.sidebar .theme-button:nth-child(16) {
+    background-color: var(--color16);
 }
 
 .sidebar .theme-button:hover {
