@@ -570,6 +570,643 @@ document.addEventListener("DOMContentLoaded", () => {
         thumbnail: "https://img.youtube.com/vi/CjRZcLzQ89w/mqdefault.jpg",
       },
     ],
+    BigBool: [
+      {
+        title: "Ｐｅｒｓｏｎａᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=hhHopWDPRrY",
+        thumbnail: "https://img.youtube.com/vi/hhHopWDPRrY/mqdefault.jpg",
+      },
+      {
+        title: "ＳＯＮＩＣ ᴛʜᴇ ʜᴇᴅɢᴇʜᴏɢ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=bIvZ5WjaSiM",
+        thumbnail: "https://img.youtube.com/vi/bIvZ5WjaSiM/mqdefault.jpg",
+      },
+      {
+        title: "ＭＡＲＩＯ ＫＡＲＴ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=Dapw3zK4FOs",
+        thumbnail: "https://img.youtube.com/vi/Dapw3zK4FOs/mqdefault.jpg",
+      },
+      {
+        title: "Ｋｉｒｂｙ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=0tPfWrsJjBU",
+        thumbnail: "https://img.youtube.com/vi/0tPfWrsJjBU/mqdefault.jpg",
+      },
+      {
+        title: "Ｇｒａｎ Ｔｕｒｉｓｍｏ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=yrDiuSnlwzo",
+        thumbnail: "https://img.youtube.com/vi/yrDiuSnlwzo/mqdefault.jpg",
+      },
+      {
+        title: "𝚂̶𝙷̶𝙸̶𝙽̶ 𝙈𝙀𝙂𝘼𝙈𝙄 𝙏𝙀𝙉𝙎𝙀𝙄 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=JGBHujOqqBo",
+        thumbnail: "https://img.youtube.com/vi/JGBHujOqqBo/mqdefault.jpg",
+      },
+      {
+        title: "𝐏𝐡𝐨𝐞𝐧𝐢𝐱 𝐖𝐫𝐢𝐠𝐡𝐭: ᴀᴄᴇ ᴀᴛᴛᴏʀɴᴇʏ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=UGHs8PIokNc",
+        thumbnail: "https://img.youtube.com/vi/UGHs8PIokNc/mqdefault.jpg",
+      },
+      {
+        title: "ᴛʜᴇ ʟᴇɢᴇɴᴅ ᴏғ 𝐙𝐄𝐋𝐃𝐀 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=7g0bKmyaHBI",
+        thumbnail: "https://img.youtube.com/vi/7g0bKmyaHBI/mqdefault.jpg",
+      },
+      {
+        title: "R̲I̲D̲G̲E̲ ̲R̲A̲C̲E̲R̲ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=WRPI7E1SBE4",
+        thumbnail: "https://img.youtube.com/vi/WRPI7E1SBE4/mqdefault.jpg",
+      },
+      {
+        title: "𝐏𝐄𝐑𝐒𝐎𝐍𝐀 𝟷 + 𝟸 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=KPb1fDvNs9o",
+        thumbnail: "https://img.youtube.com/vi/KPb1fDvNs9o/mqdefault.jpg",
+      },
+      {
+        title: "ⓈⓊⓅⒺⓇ ⓂⓄⓃⓀⒺⓎ ⒷⒶⓁⓁ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=CeLLJg3OjmE",
+        thumbnail: "https://img.youtube.com/vi/7g0bKmyaHBI/mqdefault.jpg",
+      },
+      {
+        title: "𝐀𝐩𝐨𝐥𝐥𝐨 𝐉𝐮𝐬𝐭𝐢𝐜𝐞: ᴀᴄᴇ ᴀᴛᴛᴏʀɴᴇʏ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=GTaGWJ3ai8Q",
+        thumbnail: "https://img.youtube.com/vi/GTaGWJ3ai8Q/mqdefault.jpg",
+      },
+      {
+        title: "𝐁𝐀𝐘𝐎𝐍𝐄𝐓𝐓𝐀 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=bL-UCAcTKwI",
+        thumbnail: "https://img.youtube.com/vi/bL-UCAcTKwI/mqdefault.jpg",
+      },
+      {
+        title: "丅𝘌КК𝘌N ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=1uFP5L92b_Q",
+        thumbnail: "https://img.youtube.com/vi/1uFP5L92b_Q/mqdefault.jpg",
+      },
+      {
+        title: "𝘈𝚃𝙻𝚄𝚂 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=Eq9KKPO8v9g",
+        thumbnail: "https://img.youtube.com/vi/Eq9KKPO8v9g/mqdefault.jpg",
+      },
+      {
+        title: "ᛕᒪᏫ𝐍Ꮻ𝘼 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=a-_XO5CVJ58",
+        thumbnail: "https://img.youtube.com/vi/a-_XO5CVJ58/mqdefault.jpg",
+      },
+      {
+        title: "丂𝙏𝙍𝐄𝐄ㄒ ᖴ𝐈𝙶卄𝙏𝐄☈ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=S3xgMzPuf7Y",
+        thumbnail: "https://img.youtube.com/vi/S3xgMzPuf7Y/mqdefault.jpg",
+      },
+      {
+        title: "𝐀ᑭ𝙴 ᗴ𝚂ᑕᗩᑭᗴ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=6pxbN1q2Smc",
+        thumbnail: "https://img.youtube.com/vi/6pxbN1q2Smc/mqdefault.jpg",
+      },
+      {
+        title: "ғғxɪ: 𝙿𝚕𝚊𝚢0𝚗𝚕𝚒𝚗𝚎 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=VkVInBsnpYY",
+        thumbnail: "https://img.youtube.com/vi/VkVInBsnpYY/mqdefault.jpg",
+      },
+      {
+        title: "𝘽𝙊𝙈𝘽𝙀𝙍𝙈𝘼𝙉 𝟔𝟒 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=N7SypfuYl-A",
+        thumbnail: "https://img.youtube.com/vi/N7SypfuYl-A/mqdefault.jpg",
+      },
+      {
+        title: "𝐊𝐚𝐭𝐚𝐦𝐚𝐫𝐢 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=-FuMTR0eMrc",
+        thumbnail: "https://img.youtube.com/vi/-FuMTR0eMrc/mqdefault.jpg",
+      },
+      {
+        title: "b̶a̶n̶d̶a̶i̶ 𝐧𝐚𝐦𝐜𝐨 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=iYhBwZOtRTk",
+        thumbnail: "https://img.youtube.com/vi/iYhBwZOtRTk/mqdefault.jpg",
+      },
+      {
+        title: "𝐓𝐨𝐤𝐲𝐨 𝐗𝐭𝐫𝐞𝐦𝐞 𝐑𝐚𝐜𝐞𝐫 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=NI_KC9LlJrU",
+        thumbnail: "https://img.youtube.com/vi/NI_KC9LlJrU/mqdefault.jpg",
+      },
+      {
+        title: "ＰＩＫＭＩＮ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=OKrNNZbhDSg",
+        thumbnail: "https://img.youtube.com/vi/OKrNNZbhDSg/mqdefault.jpg",
+      },
+      {
+        title: "𝐂𝐀𝐏𝐂𝐎𝐌 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=FUOGRrnEXzY",
+        thumbnail: "https://img.youtube.com/vi/FUOGRrnEXzY/mqdefault.jpg",
+      },
+      {
+        title: "𝙹𝙴𝚃 𝚂𝙴𝚃 𝚁𝙰𝙳𝙸𝙾 𝙵𝚄𝚃𝚄𝚁𝙴 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=eSDf-YLihJ0",
+        thumbnail: "https://img.youtube.com/vi/eSDf-YLihJ0/mqdefault.jpg",
+      },
+      {
+        title: "ᴛʜᴇ 𝐊𝐈𝐍𝐆 ᴏғ 𝙁𝙄𝙂𝙃𝙏𝙀𝙍𝙎 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=WKQmf8G6044",
+        thumbnail: "https://img.youtube.com/vi/WKQmf8G6044/mqdefault.jpg",
+      },
+      {
+        title: "𝐀𝐧𝐢𝐦𝐚𝐥 𝐂𝐫𝐨𝐬𝐬𝐢𝐧𝐠 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=Bnlrqq8_TTg",
+        thumbnail: "https://img.youtube.com/vi/Bnlrqq8_TTg/mqdefault.jpg",
+      },
+      {
+        title: "𝕂𝕆ℕ𝔸𝕄𝕀 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=yGaWKPDdlU8",
+        thumbnail: "https://img.youtube.com/vi/yGaWKPDdlU8/mqdefault.jpg",
+      },
+      {
+        title: "𝚃𝚑𝚎 𝐒𝓲𝐌𝐬 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=fM78-8lO1MA",
+        thumbnail: "https://img.youtube.com/vi/fM78-8lO1MA/mqdefault.jpg",
+      },
+      {
+        title: "𝐀𝐂𝐄 𝐂𝐎𝐌𝐁𝐀𝐓 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=zc3QVghgGJ8",
+        thumbnail: "https://img.youtube.com/vi/zc3QVghgGJ8/mqdefault.jpg",
+      },
+      {
+        title: "𝐊𝐈𝐍𝐆𝐃𝐎𝐌 𝐇𝐄𝐀𝐑𝐓𝐒 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=pFoi77MDH1Y",
+        thumbnail: "https://img.youtube.com/vi/pFoi77MDH1Y/mqdefault.jpg",
+      },
+      {
+        title: "𝕊𝔼𝔾𝔸 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=dx9TyB8cgB0",
+        thumbnail: "https://img.youtube.com/vi/dx9TyB8cgB0/mqdefault.jpg",
+      },
+      {
+        title: "𝐒𝐈𝐌𝐂𝐈𝐓𝐘 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=2FFRyNHA-G4",
+        thumbnail: "https://img.youtube.com/vi/2FFRyNHA-G4/mqdefault.jpg",
+      },
+      {
+        title: "𝙎𝙌𝙐𝘼𝙍𝙀𝙎𝙊𝙁𝙏 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=y4ex1rdbeME",
+        thumbnail: "https://img.youtube.com/vi/y4ex1rdbeME/mqdefault.jpg",
+      },
+      {
+        title: "𝙈𝙀𝙂𝘼𝙈𝘼𝙉 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=LWgqm_il9Wo",
+        thumbnail: "https://img.youtube.com/vi/LWgqm_il9Wo/mqdefault.jpg",
+      },
+      {
+        title: "𝘿𝙄𝙂𝙄𝙈𝙊𝙉 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=pnqDMXQXe58",
+        thumbnail: "https://img.youtube.com/vi/pnqDMXQXe58/mqdefault.jpg",
+      },
+      {
+        title: "ARMORED CORE ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=Y6lpWx0Zp8o",
+        thumbnail: "https://img.youtube.com/vi/Y6lpWx0Zp8o/mqdefault.jpg",
+      },
+      {
+        title: "METAL GEAR SOLID ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=xwuc7QGmKpw",
+        thumbnail: "https://img.youtube.com/vi/xwuc7QGmKpw/mqdefault.jpg",
+      },
+      {
+        title: "auto modellista ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=nnVdMvidh_s",
+        thumbnail: "https://img.youtube.com/vi/nnVdMvidh_s/mqdefault.jpg",
+      },
+      {
+        title: "HAL Laboratory ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=0XmW3yE4xac",
+        thumbnail: "https://img.youtube.com/vi/0XmW3yE4xac/mqdefault.jpg",
+      },
+      {
+        title: "𝐒𝐩𝐚𝐜𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 𝟓 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=lUO7NbwTdtk",
+        thumbnail: "https://img.youtube.com/vi/lUO7NbwTdtk/mqdefault.jpg",
+      },
+      {
+        title: "𝘾𝙝𝙞𝙗𝙞-𝙍𝙤𝙗𝙤! ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=j7__IyBSU_U",
+        thumbnail: "https://img.youtube.com/vi/j7__IyBSU_U/mqdefault.jpg",
+      },
+      {
+        title: "𝐑𝟒: 𝐑𝐢𝐝𝐠𝐞 𝐑𝐚𝐜𝐞𝐫 𝐓𝐲𝐩𝐞 𝟒 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=6Z2HAl7KpQQ",
+        thumbnail: "https://img.youtube.com/vi/6Z2HAl7KpQQ/mqdefault.jpg",
+      },
+      {
+        title: "ᴍᴇᴛʀᴏᴘᴏʟɪs sᴛʀᴇᴇᴛ ʀᴀᴄᴇʀ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=j57jt93DkkU",
+        thumbnail: "https://img.youtube.com/vi/j57jt93DkkU/mqdefault.jpg",
+      },
+      {
+        title: "𝔻𝕆ℕ𝕂𝔼𝕐 𝕂𝕆ℕ𝔾 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=X3xgxGowc2M",
+        thumbnail: "https://img.youtube.com/vi/X3xgxGowc2M/mqdefault.jpg",
+      },
+      {
+        title: "𝐁𝐑𝐀𝐈𝐍 𝐀𝐆𝐄 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=gMKdmNaCf18",
+        thumbnail: "https://img.youtube.com/vi/gMKdmNaCf18/mqdefault.jpg",
+      },
+      {
+        title: "M̲A̲R̲V̲E̲L̲ vs. 𝐂𝐀𝐏𝐂𝐎𝐌 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=GyudxDDNjlg",
+        thumbnail: "https://img.youtube.com/vi/GyudxDDNjlg/mqdefault.jpg",
+      },
+      {
+        title: "𝙵𝙸𝙽𝙰𝙻 𝙵𝙰𝙽𝚃𝙰𝚂𝚈 𝚇 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=cqL8kA9Y8lY",
+        thumbnail: "https://img.youtube.com/vi/cqL8kA9Y8lY/mqdefault.jpg",
+      },
+      {
+        title: "𝐘𝐮-𝐆𝐢-𝐎𝐡! ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=_WaEzNdjzbc",
+        thumbnail: "https://img.youtube.com/vi/_WaEzNdjzbc/mqdefault.jpg",
+      },
+      {
+        title: "ᴘᴇʀsᴏɴᴀ 𝟹 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=gZ-ODyJLdGQ",
+        thumbnail: "https://img.youtube.com/vi/gZ-ODyJLdGQ/mqdefault.jpg",
+      },
+      {
+        title: "𝙵𝙸𝙽𝙰𝙻 𝙵𝙰𝙽𝚃𝙰𝚂𝚈 𝚇𝙸𝙸𝙸 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=BQ65gzIxONk",
+        thumbnail: "https://img.youtube.com/vi/BQ65gzIxONk/mqdefault.jpg",
+      },
+      {
+        title: "E͏L͏E͏V͏A͏T͏O͏R͏ A͏C͏T͏I͏O͏N͏ R͏E͏T͏U͏R͏N͏S͏ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=UulJRYGPZX8",
+        thumbnail: "https://img.youtube.com/vi/UulJRYGPZX8/mqdefault.jpg",
+      },
+      {
+        title: "𝐄𝐍𝐓𝐇𝐔𝐒𝐈𝐀 ᴘʀᴏғᴇssɪᴏɴᴀʟ ʀᴀᴄɪɴɢ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=Em89HsRhetU",
+        thumbnail: "https://img.youtube.com/vi/Em89HsRhetU/mqdefault.jpg",
+      },
+      {
+        title: "TOBAL ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=r__QC-1v-Bg",
+        thumbnail: "https://img.youtube.com/vi/r__QC-1v-Bg/mqdefault.jpg",
+      },
+      {
+        title: "𝙂𝙍𝘼𝙉 𝙏𝙐𝙍𝙄𝙎𝙈𝙊 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=9VRpctQTtoE",
+        thumbnail: "https://img.youtube.com/vi/9VRpctQTtoE/mqdefault.jpg",
+      },
+      {
+        title: "𝐇𝐔𝐃𝐒𝐎𝐍 𝐒𝐎𝐅𝐓 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=mcGGFPEEjN0",
+        thumbnail: "https://img.youtube.com/vi/mcGGFPEEjN0/mqdefault.jpg",
+      },
+      {
+        title: "𝐒𝐔𝐏𝐄𝐑 𝐒𝐌𝐀𝐒𝐇 𝐁𝐑𝐎𝐒. ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=GE9QpsBYqxM",
+        thumbnail: "https://img.youtube.com/vi/GE9QpsBYqxM/mqdefault.jpg",
+      },
+      {
+        title: "𝙃𝙊𝙏 𝙎𝙃𝙊𝙏𝙎 𝙂𝙊𝙇𝙁 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=bu1J-Y-bJWE",
+        thumbnail: "https://img.youtube.com/vi/bu1J-Y-bJWE/mqdefault.jpg",
+      },
+      {
+        title: "ᴛʀᴀᴜᴍᴀ ᴄᴇɴᴛᴇʀ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=FjiwAtOnD7Y",
+        thumbnail: "https://img.youtube.com/vi/FjiwAtOnD7Y/mqdefault.jpg",
+      },
+      {
+        title: "𝐦𝐚𝐱𝐢𝐬 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=jvKXZD2zOv0",
+        thumbnail: "https://img.youtube.com/vi/jvKXZD2zOv0/mqdefault.jpg",
+      },
+      {
+        title: "𝓃𝒾𝓃𝓉𝑒𝓃𝒹𝑜𝑔𝓈 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=div3dbeAVC8",
+        thumbnail: "https://img.youtube.com/vi/div3dbeAVC8/mqdefault.jpg",
+      },
+      {
+        title: ".𝐡𝐚𝐜𝐤 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=ELAkUoCvLxM",
+        thumbnail: "https://img.youtube.com/vi/ELAkUoCvLxM/mqdefault.jpg",
+      },
+      {
+        title: "ᴇᴀʀᴛʜBᴏᴜɴᴅ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=XO5VY6BInSQ",
+        thumbnail: "https://img.youtube.com/vi/XO5VY6BInSQ/mqdefault.jpg",
+      },
+      {
+        title: "𝐏𝐇𝐀𝐍𝐓𝐀𝐒𝐘 𝐒𝐓𝐀𝐑 ᴏɴʟɪɴᴇ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=y2NgANrf8dw",
+        thumbnail: "https://img.youtube.com/vi/y2NgANrf8dw/mqdefault.jpg",
+      },
+      {
+        title: "𝓡𝓪𝓬𝓲𝓷𝓰 𝓛𝓪𝓰𝓸𝓸𝓷 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=ZfhxoXvtTrc",
+        thumbnail: "https://img.youtube.com/vi/ZfhxoXvtTrc/mqdefault.jpg",
+      },
+      {
+        title: "𝐃𝐑𝐀𝐆𝐎𝐍 𝐐𝐔𝐄𝐒𝐓 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=GTpXC4Ukb6I",
+        thumbnail: "https://img.youtube.com/vi/GTpXC4Ukb6I/mqdefault.jpg",
+      },
+      {
+        title: "ᴀʀᴄ sʏsᴛᴇᴍ ᴡᴏʀᴋs ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=P0zL_SMZHTo",
+        thumbnail: "https://img.youtube.com/vi/P0zL_SMZHTo/mqdefault.jpg",
+      },
+      {
+        title: "𝐘𝐚𝐤𝐮𝐳𝐚 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=WAXVGVNxPn4",
+        thumbnail: "https://img.youtube.com/vi/WAXVGVNxPn4/mqdefault.jpg",
+      },
+      {
+        title: "𝙹𝙰𝙿𝙰𝙽 𝐒𝐭𝐮𝐝𝐢𝐨 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=mkJgbfXh3uQ",
+        thumbnail: "https://img.youtube.com/vi/mkJgbfXh3uQ/mqdefault.jpg",
+      },
+      {
+        title: "𝚙𝚊𝚛𝚊𝚜𝚒𝚝𝚎 𝚎𝚟𝚎 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=nJw7yAgY6Hw",
+        thumbnail: "https://img.youtube.com/vi/nJw7yAgY6Hw/mqdefault.jpg",
+      },
+      {
+        title: "𝐍𝐢𝐞𝐑 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=gutwXnNPiY8",
+        thumbnail: "https://img.youtube.com/vi/gutwXnNPiY8/mqdefault.jpg",
+      },
+      {
+        title: "𝐏𝐄𝐑𝐒𝐎𝐍𝐀 𝐐 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=EMhs-antKAA",
+        thumbnail: "https://img.youtube.com/vi/EMhs-antKAA/mqdefault.jpg",
+      },
+      {
+        title: "ɴᴏ ᴍᴏʀᴇ ʜᴇʀᴏᴇs ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=GUmd1B2xOQQ",
+        thumbnail: "https://img.youtube.com/vi/GUmd1B2xOQQ/mqdefault.jpg",
+      },
+      {
+        title: "𝐇𝐀𝐋𝐎 𝟑: ᴏᴅsᴛ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=EeAoHfBQE0M",
+        thumbnail: "https://img.youtube.com/vi/EeAoHfBQE0M/mqdefault.jpg",
+      },
+      {
+        title: "CyberConnect2 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=ku1B1-kAWMU",
+        thumbnail: "https://img.youtube.com/vi/ku1B1-kAWMU/mqdefault.jpg",
+      },
+      {
+        title: "𝐏.𝐍.03 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=UUSefWfoyqY",
+        thumbnail: "https://img.youtube.com/vi/UUSefWfoyqY/mqdefault.jpg",
+      },
+      {
+        title: "𝙳𝚁𝙸𝚅𝙸𝙽𝙶 𝙴𝙼𝙾𝚃𝙸𝙾𝙽 𝚃𝚈𝙿𝙴-𝚂 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=ERAnpDCNkY8",
+        thumbnail: "https://img.youtube.com/vi/ERAnpDCNkY8/mqdefault.jpg",
+      },
+      {
+        title: "𝐃𝐑𝐀𝐆𝐎𝐍 𝐁𝐀𝐋𝐋 𝐙 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=FEvqep27AVU",
+        thumbnail: "https://img.youtube.com/vi/FEvqep27AVU/mqdefault.jpg",
+      },
+      {
+        title: "TᴇKKᴇN 𝟑 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=aoIOAi9IBj8",
+        thumbnail: "https://img.youtube.com/vi/aoIOAi9IBj8/mqdefault.jpg",
+      },
+      {
+        title: "ʀᴀᴛᴄʜᴇᴛ & ᴄʟᴀɴᴋ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=AMT2Cu0aSek",
+        thumbnail: "https://img.youtube.com/vi/AMT2Cu0aSek/mqdefault.jpg",
+      },
+      {
+        title: "ᴇɪɴʜᴀ̈ɴᴅᴇʀ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=vp4gh0ej4bM",
+        thumbnail: "https://img.youtube.com/vi/vp4gh0ej4bM/mqdefault.jpg",
+      },
+      {
+        title: "𝐒𝐏𝐘𝐑𝐎 ᴛʜᴇ ᴅʀᴀɢᴏɴ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=LhcTXBxNfuQ",
+        thumbnail: "https://img.youtube.com/vi/LhcTXBxNfuQ/mqdefault.jpg",
+      },
+      {
+        title: "front mission 3 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=woFszIrCD7M",
+        thumbnail: "https://img.youtube.com/vi/woFszIrCD7M/mqdefault.jpg",
+      },
+      {
+        title: "GITAROO MAN ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=ksttDTPhmfQ",
+        thumbnail: "https://img.youtube.com/vi/ksttDTPhmfQ/mqdefault.jpg",
+      },
+      {
+        title: "SILENT HILL ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=F1yWKkZZzSA",
+        thumbnail: "https://img.youtube.com/vi/F1yWKkZZzSA/mqdefault.jpg",
+      },
+      {
+        title: "𝕽𝖚𝖑𝖊 𝖔𝖋 𝕽𝖔𝖘𝖊 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=kFdNnJ5LoxU",
+        thumbnail: "https://img.youtube.com/vi/kFdNnJ5LoxU/mqdefault.jpg",
+      },
+      {
+        title: "ᴅᴇᴀᴅ ᴏʀ ᴀʟɪᴠᴇ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=5BYnKtZHcmE",
+        thumbnail: "https://img.youtube.com/vi/5BYnKtZHcmE/mqdefault.jpg",
+      },
+      {
+        title: "sʜɪɴ ᴍᴇɢᴀᴍɪ ᴛᴇɴsᴇɪ ɪᴠ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=DlqNLP9BEd4",
+        thumbnail: "https://img.youtube.com/vi/DlqNLP9BEd4/mqdefault.jpg",
+      },
+      {
+        title: "𝚁𝙴𝚂𝙸𝙳𝙴𝙽𝚃 𝙴𝚅𝙸𝙻 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=ycnFkeqhOc4",
+        thumbnail: "https://img.youtube.com/vi/ycnFkeqhOc4/mqdefault.jpg",
+      },
+      {
+        title: "𝐂𝐚𝐬𝐭𝐥𝐞𝐯𝐚𝐧𝐢𝐚 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=nHZzAhzSlWM",
+        thumbnail: "https://img.youtube.com/vi/nHZzAhzSlWM/mqdefault.jpg",
+      },
+      {
+        title: "𝓓𝓮𝓿𝓲𝓵 𝓜𝓪𝔂 𝓒𝓻𝔂 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=4Jfy_TmX0CY",
+        thumbnail: "https://img.youtube.com/vi/4Jfy_TmX0CY/mqdefault.jpg",
+      },
+      {
+        title: "ᴛʜᴇ ʟᴇɢᴇɴᴅ ᴏғ ᴢᴇʟᴅᴀ: 𝐌𝐚𝐣𝐨𝐫𝐚'𝐬 𝐌𝐚𝐬𝐤 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=5a7PnlDJs00",
+        thumbnail: "https://img.youtube.com/vi/5a7PnlDJs00/mqdefault.jpg",
+      },
+      {
+        title: "𝙲𝙻𝙾𝙲𝙺 𝚃𝙾𝚆𝙴𝚁 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=BAOhTUnLpSo",
+        thumbnail: "https://img.youtube.com/vi/BAOhTUnLpSo/mqdefault.jpg",
+      },
+      {
+        title: "sᴛᴀʀᴅᴇᴡ ᴠᴀʟʟᴇʏ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=GfUTCUAqTZA",
+        thumbnail: "https://img.youtube.com/vi/GfUTCUAqTZA/mqdefault.jpg",
+      },
+      {
+        title: "𝐗𝐞𝐧𝐨𝐠𝐞𝐚𝐫𝐬 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=7zuoKSVhjGY",
+        thumbnail: "https://img.youtube.com/vi/7zuoKSVhjGY/mqdefault.jpg",
+      },
+      {
+        title: "𝐊𝐎𝐄𝐈 𝐓𝐄𝐂𝐌𝐎 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=imygOTdwbi8",
+        thumbnail: "https://img.youtube.com/vi/imygOTdwbi8/mqdefault.jpg",
+      },
+      {
+        title: "FINAL FANTASY VIII ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=XGDTAxpfeTc",
+        thumbnail: "https://img.youtube.com/vi/XGDTAxpfeTc/mqdefault.jpg",
+      },
+      {
+        title: "𝓥𝓲𝓻𝓽𝓾𝓪 𝓕𝓲𝓰𝓱𝓽𝓮𝓻 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=uo_Hy16oYAI",
+        thumbnail: "https://img.youtube.com/vi/uo_Hy16oYAI/mqdefault.jpg",
+      },
+      {
+        title: "VA-11 HALL-A ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=difIYI3BdDk",
+        thumbnail: "https://img.youtube.com/vi/difIYI3BdDk/mqdefault.jpg",
+      },
+      {
+        title: "Ｒ: ＲＡＣＩＮＧ ＥＶＯＬＵＴＩＯＮ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=qKa8XOq-SG0",
+        thumbnail: "https://img.youtube.com/vi/qKa8XOq-SG0/mqdefault.jpg",
+      },
+      {
+        title: "𝐄𝐍𝐃𝐋𝐄𝐒𝐒 𝐎𝐂𝐄𝐀𝐍 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=XbMaKUY_k0o",
+        thumbnail: "https://img.youtube.com/vi/XbMaKUY_k0o/mqdefault.jpg",
+      },
+      {
+        title: "DECA Sports ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=2mVwdmyijhk",
+        thumbnail: "https://img.youtube.com/vi/2mVwdmyijhk/mqdefault.jpg",
+      },
+      {
+        title: "ᴠɪᴠᴀ ᴘɪɴ̃ᴀᴛᴀ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=gwH1ktrAph4",
+        thumbnail: "https://img.youtube.com/vi/gwH1ktrAph4/mqdefault.jpg",
+      },
+      {
+        title: "𝐁𝐮𝐬𝐭 𝐚 𝐆𝐫𝐨𝐨𝐯𝐞 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=dcACTpSXj5I",
+        thumbnail: "https://img.youtube.com/vi/dcACTpSXj5I/mqdefault.jpg",
+      },
+      {
+        title: "ＬＥＶＥＬ ５ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=9PzrwOqJsv8",
+        thumbnail: "https://img.youtube.com/vi/9PzrwOqJsv8/mqdefault.jpg",
+      },
+      {
+        title: "𝐌𝐀𝐑𝐈𝐎 𝐊𝐀𝐑𝐓 𝚆𝚒𝚒 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=n95CZhCa4YY",
+        thumbnail: "https://img.youtube.com/vi/n95CZhCa4YY/mqdefault.jpg",
+      },
+      {
+        title: "𝐏𝐞𝐫𝐬𝐨𝐧𝐚 𝟒 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=ZvJQt559CTY",
+        thumbnail: "https://img.youtube.com/vi/ZvJQt559CTY/mqdefault.jpg",
+      },
+      {
+        title: "𝓢𝓱𝓮𝓷𝓶𝓾𝓮 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=r1SL7vf91z0",
+        thumbnail: "https://img.youtube.com/vi/r1SL7vf91z0/mqdefault.jpg",
+      },
+      {
+        title: "𝙲𝙰𝚃𝙷𝙴𝚁𝙸𝙽𝙴 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=oC-HbhUG_gs",
+        thumbnail: "https://img.youtube.com/vi/oC-HbhUG_gs/mqdefault.jpg",
+      },
+      {
+        title: "SONIC TEAM ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=CLepVL516Jg",
+        thumbnail: "https://img.youtube.com/vi/CLepVL516Jg/mqdefault.jpg",
+      },
+      {
+        title: "CHRONO TRIGGER ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=vnPB-sQjxqc",
+        thumbnail: "https://img.youtube.com/vi/vnPB-sQjxqc/mqdefault.jpg",
+      },
+      {
+        title: "𝙂𝙍𝘼𝙉 𝙏𝙐𝙍𝙄𝙎𝙈𝙊 4 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=zPz2PYgXZZE",
+        thumbnail: "https://img.youtube.com/vi/zPz2PYgXZZE/mqdefault.jpg",
+      },
+      {
+        title: "𝐒𝐔𝐏𝐄𝐑 𝐒𝐌𝐀𝐒𝐇 𝐁𝐑𝐎𝐒. 𝙼𝚎𝚕𝚎𝚎 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=FXmU1X77r1g",
+        thumbnail: "https://img.youtube.com/vi/FXmU1X77r1g/mqdefault.jpg",
+      },
+      {
+        title: "𝐑𝐚𝐫𝐞 𝐋𝐭𝐝. ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=J5d-ZIKXOkQ",
+        thumbnail: "https://img.youtube.com/vi/J5d-ZIKXOkQ/mqdefault.jpg",
+      },
+      {
+        title: "ＢＬｉＮＸ : ᴛʜᴇ ᴛɪᴍᴇ sᴡᴇᴇᴘᴇʀ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=msNCMap8E1A",
+        thumbnail: "https://img.youtube.com/vi/msNCMap8E1A/mqdefault.jpg",
+      },
+      {
+        title: "𝚂𝙴𝙶𝙰 ᴀᴍ𝟸 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=F9Z2--v0CZ8",
+        thumbnail: "https://img.youtube.com/vi/F9Z2--v0CZ8/mqdefault.jpg",
+      },
+      {
+        title: "𝙎𝙏𝙍𝙀𝙀𝙏 𝙁𝙄𝙂𝙃𝙏𝙀𝙍 ɪɪɪ: 𝟹ʀᴅ sᴛʀɪᴋᴇ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=32nMlgyWtQw",
+        thumbnail: "https://img.youtube.com/vi/32nMlgyWtQw/mqdefault.jpg",
+      },
+      {
+        title: "𝙁-𝙕𝙀𝙍𝙊 𝙂𝙓 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=AobqzJmZs90",
+        thumbnail: "https://img.youtube.com/vi/AobqzJmZs90/mqdefault.jpg",
+      },
+      {
+        title: "ʜᴏᴛᴇʟ ᴅᴜsᴋ: 𝐑𝐨𝐨𝐦 𝟸𝟷𝟻 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=ODTMK5Qu30M",
+        thumbnail: "https://img.youtube.com/vi/ODTMK5Qu30M/mqdefault.jpg",
+      },
+      {
+        title: "𝐏𝐥𝐚𝐲𝐒𝐭𝐚𝐭𝐢𝐨𝐧 𝐇𝐨𝐦𝐞 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=dg2BGzxp0Jk",
+        thumbnail: "https://img.youtube.com/vi/dg2BGzxp0Jk/mqdefault.jpg",
+      },
+      {
+        title: "𝙎𝙏𝙍𝙀𝙀𝙏 𝙁𝙄𝙂𝙃𝙏𝙀𝙍 𝔼𝕏 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=aIUhdwgnOXE",
+        thumbnail: "https://img.youtube.com/vi/aIUhdwgnOXE/mqdefault.jpg",
+      },
+      {
+        title: "𝐆𝐚𝐥𝐥𝐨𝐩 𝐑𝐚𝐜𝐞𝐫 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=PmH_V2q_d7g",
+        thumbnail: "https://img.youtube.com/vi/PmH_V2q_d7g/mqdefault.jpg",
+      },
+      {
+        title: "𝙋𝙀𝙍𝙎𝙊𝙉𝘼 𝟓 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=P_kM2EYb87I",
+        thumbnail: "https://img.youtube.com/vi/P_kM2EYb87I/mqdefault.jpg",
+      },
+      {
+        title: "𝙉𝙀𝙀𝘿 𝙁𝙊𝙍 𝙎𝙋𝙀𝙀𝘿 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=SgiJM5qPgYQ",
+        thumbnail: "https://img.youtube.com/vi/SgiJM5qPgYQ/mqdefault.jpg",
+      },
+      {
+        title: "ᴀᴄᴇ ᴄᴏᴍʙᴀᴛ 𝟹: 𝚎𝚕𝚎𝚌𝚝𝚛𝚘𝚜𝚙𝚑𝚎𝚛𝚎 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=Ywacvs3ZLnw",
+        thumbnail: "https://img.youtube.com/vi/Ywacvs3ZLnw/mqdefault.jpg",
+      },
+      {
+        title: "𝚃𝚑𝚎 𝐒𝓲𝐌𝐬 𝟸 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=5e_SPMKyosk",
+        thumbnail: "https://img.youtube.com/vi/5e_SPMKyosk/mqdefault.jpg",
+      },
+    ],
     Chill: [
       {
         title: "video game music for your summer break",
@@ -1168,366 +1805,6 @@ document.addEventListener("DOMContentLoaded", () => {
         title: "🎧 persona playlist.:・°☆.:・°",
         url: "https://www.youtube.com/watch?v=UWi72EOzh1U",
         thumbnail: "https://img.youtube.com/vi/UWi72EOzh1U/mqdefault.jpg",
-      },
-      {
-        title: "Ｐｅｒｓｏｎａᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=hhHopWDPRrY",
-        thumbnail: "https://img.youtube.com/vi/hhHopWDPRrY/mqdefault.jpg",
-      },
-      {
-        title: "ＳＯＮＩＣ ᴛʜᴇ ʜᴇᴅɢᴇʜᴏɢ ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=bIvZ5WjaSiM",
-        thumbnail: "https://img.youtube.com/vi/bIvZ5WjaSiM/mqdefault.jpg",
-      },
-      {
-        title: "ＭＡＲＩＯ ＫＡＲＴ ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=Dapw3zK4FOs",
-        thumbnail: "https://img.youtube.com/vi/Dapw3zK4FOs/mqdefault.jpg",
-      },
-      {
-        title: "Ｋｉｒｂｙ ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=0tPfWrsJjBU",
-        thumbnail: "https://img.youtube.com/vi/0tPfWrsJjBU/mqdefault.jpg",
-      },
-      {
-        title: "Ｇｒａｎ Ｔｕｒｉｓｍｏ ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=yrDiuSnlwzo",
-        thumbnail: "https://img.youtube.com/vi/yrDiuSnlwzo/mqdefault.jpg",
-      },
-      {
-        title: "𝚂̶𝙷̶𝙸̶𝙽̶ 𝙈𝙀𝙂𝘼𝙈𝙄 𝙏𝙀𝙉𝙎𝙀𝙄 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=JGBHujOqqBo",
-        thumbnail: "https://img.youtube.com/vi/JGBHujOqqBo/mqdefault.jpg",
-      },
-      {
-        title: "𝐏𝐡𝐨𝐞𝐧𝐢𝐱 𝐖𝐫𝐢𝐠𝐡𝐭: ᴀᴄᴇ ᴀᴛᴛᴏʀɴᴇʏ ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=UGHs8PIokNc",
-        thumbnail: "https://img.youtube.com/vi/UGHs8PIokNc/mqdefault.jpg",
-      },
-      {
-        title: "ᴛʜᴇ ʟᴇɢᴇɴᴅ ᴏғ 𝐙𝐄𝐋𝐃𝐀 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=7g0bKmyaHBI",
-        thumbnail: "https://img.youtube.com/vi/7g0bKmyaHBI/mqdefault.jpg",
-      },
-      {
-        title: "R̲I̲D̲G̲E̲ ̲R̲A̲C̲E̲R̲ ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=WRPI7E1SBE4",
-        thumbnail: "https://img.youtube.com/vi/WRPI7E1SBE4/mqdefault.jpg",
-      },
-      {
-        title: "𝐏𝐄𝐑𝐒𝐎𝐍𝐀 𝟷 + 𝟸 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=KPb1fDvNs9o",
-        thumbnail: "https://img.youtube.com/vi/KPb1fDvNs9o/mqdefault.jpg",
-      },
-      {
-        title: "ⓈⓊⓅⒺⓇ ⓂⓄⓃⓀⒺⓎ ⒷⒶⓁⓁ ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=CeLLJg3OjmE",
-        thumbnail: "https://img.youtube.com/vi/7g0bKmyaHBI/mqdefault.jpg",
-      },
-      {
-        title: "𝐀𝐩𝐨𝐥𝐥𝐨 𝐉𝐮𝐬𝐭𝐢𝐜𝐞: ᴀᴄᴇ ᴀᴛᴛᴏʀɴᴇʏ ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=GTaGWJ3ai8Q",
-        thumbnail: "https://img.youtube.com/vi/GTaGWJ3ai8Q/mqdefault.jpg",
-      },
-      {
-        title: "𝐁𝐀𝐘𝐎𝐍𝐄𝐓𝐓𝐀 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=bL-UCAcTKwI",
-        thumbnail: "https://img.youtube.com/vi/bL-UCAcTKwI/mqdefault.jpg",
-      },
-      {
-        title: "丅𝘌КК𝘌N ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=1uFP5L92b_Q",
-        thumbnail: "https://img.youtube.com/vi/1uFP5L92b_Q/mqdefault.jpg",
-      },
-      {
-        title: "𝘈𝚃𝙻𝚄𝚂 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=Eq9KKPO8v9g",
-        thumbnail: "https://img.youtube.com/vi/Eq9KKPO8v9g/mqdefault.jpg",
-      },
-      {
-        title: "ᛕᒪᏫ𝐍Ꮻ𝘼 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=a-_XO5CVJ58",
-        thumbnail: "https://img.youtube.com/vi/a-_XO5CVJ58/mqdefault.jpg",
-      },
-      {
-        title: "丂𝙏𝙍𝐄𝐄ㄒ ᖴ𝐈𝙶卄𝙏𝐄☈ ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=S3xgMzPuf7Y",
-        thumbnail: "https://img.youtube.com/vi/S3xgMzPuf7Y/mqdefault.jpg",
-      },
-      {
-        title: "𝐀ᑭ𝙴 ᗴ𝚂ᑕᗩᑭᗴ ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=6pxbN1q2Smc",
-        thumbnail: "https://img.youtube.com/vi/6pxbN1q2Smc/mqdefault.jpg",
-      },
-      {
-        title: "ғғxɪ: 𝙿𝚕𝚊𝚢0𝚗𝚕𝚒𝚗𝚎 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=VkVInBsnpYY",
-        thumbnail: "https://img.youtube.com/vi/VkVInBsnpYY/mqdefault.jpg",
-      },
-      {
-        title: "𝘽𝙊𝙈𝘽𝙀𝙍𝙈𝘼𝙉 𝟔𝟒 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=N7SypfuYl-A",
-        thumbnail: "https://img.youtube.com/vi/N7SypfuYl-A/mqdefault.jpg",
-      },
-      {
-        title: "𝐊𝐚𝐭𝐚𝐦𝐚𝐫𝐢 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=-FuMTR0eMrc",
-        thumbnail: "https://img.youtube.com/vi/-FuMTR0eMrc/mqdefault.jpg",
-      },
-      {
-        title: "b̶a̶n̶d̶a̶i̶ 𝐧𝐚𝐦𝐜𝐨 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=iYhBwZOtRTk",
-        thumbnail: "https://img.youtube.com/vi/iYhBwZOtRTk/mqdefault.jpg",
-      },
-      {
-        title: "𝐓𝐨𝐤𝐲𝐨 𝐗𝐭𝐫𝐞𝐦𝐞 𝐑𝐚𝐜𝐞𝐫 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=NI_KC9LlJrU",
-        thumbnail: "https://img.youtube.com/vi/NI_KC9LlJrU/mqdefault.jpg",
-      },
-      {
-        title: "ＰＩＫＭＩＮ ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=OKrNNZbhDSg",
-        thumbnail: "https://img.youtube.com/vi/OKrNNZbhDSg/mqdefault.jpg",
-      },
-      {
-        title: "𝐂𝐀𝐏𝐂𝐎𝐌 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=FUOGRrnEXzY",
-        thumbnail: "https://img.youtube.com/vi/FUOGRrnEXzY/mqdefault.jpg",
-      },
-      {
-        title: "𝙹𝙴𝚃 𝚂𝙴𝚃 𝚁𝙰𝙳𝙸𝙾 𝙵𝚄𝚃𝚄𝚁𝙴 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=eSDf-YLihJ0",
-        thumbnail: "https://img.youtube.com/vi/eSDf-YLihJ0/mqdefault.jpg",
-      },
-      {
-        title: "ᴛʜᴇ 𝐊𝐈𝐍𝐆 ᴏғ 𝙁𝙄𝙂𝙃𝙏𝙀𝙍𝙎 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=WKQmf8G6044",
-        thumbnail: "https://img.youtube.com/vi/WKQmf8G6044/mqdefault.jpg",
-      },
-      {
-        title: "𝐀𝐧𝐢𝐦𝐚𝐥 𝐂𝐫𝐨𝐬𝐬𝐢𝐧𝐠 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=Bnlrqq8_TTg",
-        thumbnail: "https://img.youtube.com/vi/Bnlrqq8_TTg/mqdefault.jpg",
-      },
-      {
-        title: "𝕂𝕆ℕ𝔸𝕄𝕀 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=yGaWKPDdlU8",
-        thumbnail: "https://img.youtube.com/vi/yGaWKPDdlU8/mqdefault.jpg",
-      },
-      {
-        title: "𝚃𝚑𝚎 𝐒𝓲𝐌𝐬 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=fM78-8lO1MA",
-        thumbnail: "https://img.youtube.com/vi/fM78-8lO1MA/mqdefault.jpg",
-      },
-      {
-        title: "𝐀𝐂𝐄 𝐂𝐎𝐌𝐁𝐀𝐓 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=zc3QVghgGJ8",
-        thumbnail: "https://img.youtube.com/vi/zc3QVghgGJ8/mqdefault.jpg",
-      },
-      {
-        title: "𝐊𝐈𝐍𝐆𝐃𝐎𝐌 𝐇𝐄𝐀𝐑𝐓𝐒 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=pFoi77MDH1Y",
-        thumbnail: "https://img.youtube.com/vi/pFoi77MDH1Y/mqdefault.jpg",
-      },
-      {
-        title: "𝕊𝔼𝔾𝔸 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=dx9TyB8cgB0",
-        thumbnail: "https://img.youtube.com/vi/dx9TyB8cgB0/mqdefault.jpg",
-      },
-      {
-        title: "𝐒𝐈𝐌𝐂𝐈𝐓𝐘 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=2FFRyNHA-G4",
-        thumbnail: "https://img.youtube.com/vi/2FFRyNHA-G4/mqdefault.jpg",
-      },
-      {
-        title: "𝙎𝙌𝙐𝘼𝙍𝙀𝙎𝙊𝙁𝙏 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=y4ex1rdbeME",
-        thumbnail: "https://img.youtube.com/vi/y4ex1rdbeME/mqdefault.jpg",
-      },
-      {
-        title: "𝙈𝙀𝙂𝘼𝙈𝘼𝙉 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=LWgqm_il9Wo",
-        thumbnail: "https://img.youtube.com/vi/LWgqm_il9Wo/mqdefault.jpg",
-      },
-      {
-        title: "𝘿𝙄𝙂𝙄𝙈𝙊𝙉 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=pnqDMXQXe58",
-        thumbnail: "https://img.youtube.com/vi/pnqDMXQXe58/mqdefault.jpg",
-      },
-      {
-        title: "ARMORED CORE ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=Y6lpWx0Zp8o",
-        thumbnail: "https://img.youtube.com/vi/Y6lpWx0Zp8o/mqdefault.jpg",
-      },
-      {
-        title: "METAL GEAR SOLID ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=xwuc7QGmKpw",
-        thumbnail: "https://img.youtube.com/vi/xwuc7QGmKpw/mqdefault.jpg",
-      },
-      {
-        title: "auto modellista ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=nnVdMvidh_s",
-        thumbnail: "https://img.youtube.com/vi/nnVdMvidh_s/mqdefault.jpg",
-      },
-      {
-        title: "HAL Laboratory ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=0XmW3yE4xac",
-        thumbnail: "https://img.youtube.com/vi/0XmW3yE4xac/mqdefault.jpg",
-      },
-      {
-        title: "𝐒𝐩𝐚𝐜𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 𝟓 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=lUO7NbwTdtk",
-        thumbnail: "https://img.youtube.com/vi/lUO7NbwTdtk/mqdefault.jpg",
-      },
-      {
-        title: "𝘾𝙝𝙞𝙗𝙞-𝙍𝙤𝙗𝙤! ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=j7__IyBSU_U",
-        thumbnail: "https://img.youtube.com/vi/j7__IyBSU_U/mqdefault.jpg",
-      },
-      {
-        title: "𝐑𝟒: 𝐑𝐢𝐝𝐠𝐞 𝐑𝐚𝐜𝐞𝐫 𝐓𝐲𝐩𝐞 𝟒 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=6Z2HAl7KpQQ",
-        thumbnail: "https://img.youtube.com/vi/6Z2HAl7KpQQ/mqdefault.jpg",
-      },
-      {
-        title: "ᴍᴇᴛʀᴏᴘᴏʟɪs sᴛʀᴇᴇᴛ ʀᴀᴄᴇʀ ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=j57jt93DkkU",
-        thumbnail: "https://img.youtube.com/vi/j57jt93DkkU/mqdefault.jpg",
-      },
-      {
-        title: "𝔻𝕆ℕ𝕂𝔼𝕐 𝕂𝕆ℕ𝔾 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=X3xgxGowc2M",
-        thumbnail: "https://img.youtube.com/vi/X3xgxGowc2M/mqdefault.jpg",
-      },
-      {
-        title: "𝐁𝐑𝐀𝐈𝐍 𝐀𝐆𝐄 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=gMKdmNaCf18",
-        thumbnail: "https://img.youtube.com/vi/gMKdmNaCf18/mqdefault.jpg",
-      },
-      {
-        title: "M̲A̲R̲V̲E̲L̲ vs. 𝐂𝐀𝐏𝐂𝐎𝐌 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=GyudxDDNjlg",
-        thumbnail: "https://img.youtube.com/vi/GyudxDDNjlg/mqdefault.jpg",
-      },
-      {
-        title: "𝙵𝙸𝙽𝙰𝙻 𝙵𝙰𝙽𝚃𝙰𝚂𝚈 𝚇 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=cqL8kA9Y8lY",
-        thumbnail: "https://img.youtube.com/vi/cqL8kA9Y8lY/mqdefault.jpg",
-      },
-      {
-        title: "𝐘𝐮-𝐆𝐢-𝐎𝐡! ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=_WaEzNdjzbc",
-        thumbnail: "https://img.youtube.com/vi/_WaEzNdjzbc/mqdefault.jpg",
-      },
-      {
-        title: "ᴘᴇʀsᴏɴᴀ 𝟹 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=gZ-ODyJLdGQ",
-        thumbnail: "https://img.youtube.com/vi/gZ-ODyJLdGQ/mqdefault.jpg",
-      },
-      {
-        title: "𝙵𝙸𝙽𝙰𝙻 𝙵𝙰𝙽𝚃𝙰𝚂𝚈 𝚇𝙸𝙸𝙸 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=BQ65gzIxONk",
-        thumbnail: "https://img.youtube.com/vi/BQ65gzIxONk/mqdefault.jpg",
-      },
-      {
-        title: "E͏L͏E͏V͏A͏T͏O͏R͏ A͏C͏T͏I͏O͏N͏ R͏E͏T͏U͏R͏N͏S͏ ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=UulJRYGPZX8",
-        thumbnail: "https://img.youtube.com/vi/UulJRYGPZX8/mqdefault.jpg",
-      },
-      {
-        title: "𝐄𝐍𝐓𝐇𝐔𝐒𝐈𝐀 ᴘʀᴏғᴇssɪᴏɴᴀʟ ʀᴀᴄɪɴɢ ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=Em89HsRhetU",
-        thumbnail: "https://img.youtube.com/vi/Em89HsRhetU/mqdefault.jpg",
-      },
-      {
-        title: "TOBAL ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=r__QC-1v-Bg",
-        thumbnail: "https://img.youtube.com/vi/r__QC-1v-Bg/mqdefault.jpg",
-      },
-      {
-        title: "𝙂𝙍𝘼𝙉 𝙏𝙐𝙍𝙄𝙎𝙈𝙊 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=9VRpctQTtoE",
-        thumbnail: "https://img.youtube.com/vi/9VRpctQTtoE/mqdefault.jpg",
-      },
-      {
-        title: "𝐇𝐔𝐃𝐒𝐎𝐍 𝐒𝐎𝐅𝐓 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=mcGGFPEEjN0",
-        thumbnail: "https://img.youtube.com/vi/mcGGFPEEjN0/mqdefault.jpg",
-      },
-      {
-        title: "𝐒𝐔𝐏𝐄𝐑 𝐒𝐌𝐀𝐒𝐇 𝐁𝐑𝐎𝐒. ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=GE9QpsBYqxM",
-        thumbnail: "https://img.youtube.com/vi/GE9QpsBYqxM/mqdefault.jpg",
-      },
-      {
-        title: "𝙃𝙊𝙏 𝙎𝙃𝙊𝙏𝙎 𝙂𝙊𝙇𝙁 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=bu1J-Y-bJWE",
-        thumbnail: "https://img.youtube.com/vi/bu1J-Y-bJWE/mqdefault.jpg",
-      },
-      {
-        title: "ᴛʀᴀᴜᴍᴀ ᴄᴇɴᴛᴇʀ ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=FjiwAtOnD7Y",
-        thumbnail: "https://img.youtube.com/vi/FjiwAtOnD7Y/mqdefault.jpg",
-      },
-      {
-        title: "𝐦𝐚𝐱𝐢𝐬 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=jvKXZD2zOv0",
-        thumbnail: "https://img.youtube.com/vi/jvKXZD2zOv0/mqdefault.jpg",
-      },
-      {
-        title: "𝓃𝒾𝓃𝓉𝑒𝓃𝒹𝑜𝑔𝓈 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=div3dbeAVC8",
-        thumbnail: "https://img.youtube.com/vi/div3dbeAVC8/mqdefault.jpg",
-      },
-      {
-        title: ".𝐡𝐚𝐜𝐤 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=ELAkUoCvLxM",
-        thumbnail: "https://img.youtube.com/vi/ELAkUoCvLxM/mqdefault.jpg",
-      },
-      {
-        title: "ᴇᴀʀᴛʜBᴏᴜɴᴅ ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=XO5VY6BInSQ",
-        thumbnail: "https://img.youtube.com/vi/XO5VY6BInSQ/mqdefault.jpg",
-      },
-      {
-        title: "𝐏𝐇𝐀𝐍𝐓𝐀𝐒𝐘 𝐒𝐓𝐀𝐑 ᴏɴʟɪɴᴇ ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=y2NgANrf8dw",
-        thumbnail: "https://img.youtube.com/vi/y2NgANrf8dw/mqdefault.jpg",
-      },
-      {
-        title: "𝓡𝓪𝓬𝓲𝓷𝓰 𝓛𝓪𝓰𝓸𝓸𝓷 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=ZfhxoXvtTrc",
-        thumbnail: "https://img.youtube.com/vi/ZfhxoXvtTrc/mqdefault.jpg",
-      },
-      {
-        title: "𝐃𝐑𝐀𝐆𝐎𝐍 𝐐𝐔𝐄𝐒𝐓 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=GTpXC4Ukb6I",
-        thumbnail: "https://img.youtube.com/vi/GTpXC4Ukb6I/mqdefault.jpg",
-      },
-      {
-        title: "ᴀʀᴄ sʏsᴛᴇᴍ ᴡᴏʀᴋs ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=P0zL_SMZHTo",
-        thumbnail: "https://img.youtube.com/vi/P0zL_SMZHTo/mqdefault.jpg",
-      },
-      {
-        title: "𝐘𝐚𝐤𝐮𝐳𝐚 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=WAXVGVNxPn4",
-        thumbnail: "https://img.youtube.com/vi/WAXVGVNxPn4/mqdefault.jpg",
-      },
-      {
-        title: "𝙹𝙰𝙿𝙰𝙽 𝐒𝐭𝐮𝐝𝐢𝐨 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=mkJgbfXh3uQ",
-        thumbnail: "https://img.youtube.com/vi/mkJgbfXh3uQ/mqdefault.jpg",
-      },
-      {
-        title: "𝚙𝚊𝚛𝚊𝚜𝚒𝚝𝚎 𝚎𝚟𝚎 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=nJw7yAgY6Hw",
-        thumbnail: "https://img.youtube.com/vi/nJw7yAgY6Hw/mqdefault.jpg",
-      },
-      {
-        title: "𝐍𝐢𝐞𝐑 ᵐᵘˢⁱᶜ",
-        url: "https://www.youtube.com/watch?v=gutwXnNPiY8",
-        thumbnail: "https://img.youtube.com/vi/gutwXnNPiY8/mqdefault.jpg",
       },
       {
         title: "Persona 3 chill vibes - (OST mix to Study/Work/Walk)",
