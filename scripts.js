@@ -1391,10 +1391,156 @@ document.addEventListener("DOMContentLoaded", () => {
     ],
     Kera: [
       {
-        title: "",
-        url: "https://www.youtube.com/watch?v=end4JNSRRxs",
-        thumbnail: "https://img.youtube.com/vi/end4JNSRRxs/mqdefault.jpg",
+        title: "3 Hours of Adventure Through VGMs",
+        url: "https://youtu.be/jdWX3UeD5-k",
+        thumbnail: "https://img.youtube.com/vi/jdWX3UeD5-k/mqdefault.jpg",
       },
+      {
+        title: "3 Hours of Adventure Through VGMs : Volume 2",
+        url: "https://www.youtube.com/watch?v=Ai3tBIEgahg",
+        thumbnail: "https://img.youtube.com/vi/Ai3tBIEgahg/mqdefault.jpg",
+      },
+      {
+        title: "2h30 Hours of Adventure Through Video Game Music : Volume 3",
+        url: "https://www.youtube.com/watch?v=kRgTuhbVFyE",
+        thumbnail: "https://img.youtube.com/vi/kRgTuhbVFyE/mqdefault.jpg",
+      },
+      {
+        title: "2 Hours of Racing Games Music : Face A",
+        url: "https://www.youtube.com/watch?v=Jvisf_DEjSk",
+        thumbnail: "https://img.youtube.com/vi/Jvisf_DEjSk/mqdefault.jpg",
+      },
+      {
+        title: "2 Hours of Racing Games Music : Face B",
+        url: "https://www.youtube.com/watch?v=tSqK_n4uR6A",
+        thumbnail: "https://img.youtube.com/vi/tSqK_n4uR6A/mqdefault.jpg",
+      },
+      {
+        title: "3 Hours of Racing Games Music : Face C",
+        url: "https://www.youtube.com/watch?v=qSVawk3gQmU",
+        thumbnail: "https://img.youtube.com/vi/qSVawk3gQmU/mqdefault.jpg",
+      },
+      {
+        title: "2h30 of BASS Through VGMs",
+        url: "https://www.youtube.com/watch?v=raSWy3RiiKw",
+        thumbnail: "https://img.youtube.com/vi/raSWy3RiiKw/mqdefault.jpg",
+      },
+      {
+        title: "2h25 of *more* BASS Through VGMs",
+        url: "https://www.youtube.com/watch?v=NGLhfw1rnyE",
+        thumbnail: "https://img.youtube.com/vi/NGLhfw1rnyE/mqdefault.jpg",
+      },
+      {
+        title: "2h20 of *even more* BASS Through VGMs",
+        url: "https://www.youtube.com/watch?v=uCSFUwoWQH8",
+        thumbnail: "https://img.youtube.com/vi/uCSFUwoWQH8/mqdefault.jpg",
+      },
+      {
+        title: "2h30 of Jamming Through VGMs",
+        url: "https://youtu.be/MEj_hROnLAo",
+        thumbnail: "https://img.youtube.com/vi/MEj_hROnLAo/mqdefault.jpg",
+      },
+      {
+        title: "2 Hours of Jamming Through VGMs (With More Trumpets)",
+        url: "https://youtu.be/4W09K9Gxp5w",
+        thumbnail: "https://img.youtube.com/vi/4W09K9Gxp5w/mqdefault.jpg",
+      },
+      {
+        title: "1h30 of Jamming Through VGM Volume 3 (With Even More Trumpets)",
+        url: "https://youtu.be/plK9DOl1oTQ",
+        thumbnail: "https://img.youtube.com/vi/plK9DOl1oTQ/mqdefault.jpg",
+      },
+      {
+        title: "2 Hours of Video Game Music that goes HARD",
+        url: "https://www.youtube.com/watch?v=tGC8fozE8_k",
+        thumbnail: "https://img.youtube.com/vi/tGC8fozE8_k/mqdefault.jpg",
+      },
+      {
+        title: "2 Hours of Video Game Music that goes even HARDER",
+        url: "https://www.youtube.com/watch?v=g9wwdrKRm48",
+        thumbnail: "https://img.youtube.com/vi/g9wwdrKRm48/mqdefault.jpg",
+      },
+      {
+        title: "1h40 of Video Game Music to Drink a Little, Gamble a Lot (dans le jeu)",
+        url: "https://www.youtube.com/watch?v=kLu_LUkxVT4",
+        thumbnail: "https://img.youtube.com/vi/kLu_LUkxVT4/mqdefault.jpg",
+      },
+      {
+        title: "Video Game Music for doing something evil like infiltrating a base",
+        url: "https://www.youtube.com/watch?v=7fTY355Uoj8",
+        thumbnail: "https://img.youtube.com/vi/7fTY355Uoj8/mqdefault.jpg",
+      },
+      {
+        title: "(Not At All) Relaxing Sonic Playlist",
+        url: "https://youtu.be/1eSQj5GsU7s",
+        thumbnail: "https://img.youtube.com/vi/1eSQj5GsU7s/mqdefault.jpg",
+      },
+      {
+        title: "(Not At All) Relaxing Sonic Playlist : Act 2",
+        url: "https://www.youtube.com/watch?v=YUbC-MHF_kE",
+        thumbnail: "https://img.youtube.com/vi/YUbC-MHF_kE/mqdefault.jpg",
+      },
+      {
+        title: "(Not So) Relaxing Dragon Quest Playlist",
+        url: "https://www.youtube.com/watch?v=wBrsZ85m6ww",
+        thumbnail: "https://img.youtube.com/vi/wBrsZ85m6ww/mqdefault.jpg",
+      },
+      {
+        title: "(Not Really) Relaxing Yu-Gi-Oh! Playlist to Duel People",
+        url: "https://www.youtube.com/watch?v=ieBIIbZFuRk",
+        thumbnail: "https://img.youtube.com/vi/ieBIIbZFuRk/mqdefault.jpg",
+      },
+      {
+        title: "(Still Not) Relaxing Pokémon Playlist",
+        url: "https://www.youtube.com/watch?v=XySTSCG4s7w",
+        thumbnail: "https://img.youtube.com/vi/XySTSCG4s7w/mqdefault.jpg",
+      },
+      {
+        title: "(Definitely Not A) Relaxing Castlevania Playlist",
+        url: "https://www.youtube.com/watch?v=RHV0iIzWvhY",
+        thumbnail: "https://img.youtube.com/vi/RHV0iIzWvhY/mqdefault.jpg",
+      },
+      {
+        title: "2h30 of Pure NDS Musics",
+        url: "https://www.youtube.com/watch?v=bU3YI-epj5g",
+        thumbnail: "https://img.youtube.com/vi/bU3YI-epj5g/mqdefault.jpg",
+      },
+      {
+        title: "2h45 of Pure PS1 Music",
+        url: "https://youtu.be/_GW-BD0WoEk",
+        thumbnail: "https://img.youtube.com/vi/_GW-BD0WoEk/mqdefault.jpg",
+      },
+      {
+        title: "An Evolutive Pokémon Playlist",
+        url: "https://www.youtube.com/watch?v=m_D04SnTgnM",
+        thumbnail: "https://img.youtube.com/vi/m_D04SnTgnM/mqdefault.jpg",
+      },
+      {
+        title: "An Evolutive Dragon Quest Playlist",
+        url: "https://www.youtube.com/watch?v=7kgspeYiuJE",
+        thumbnail: "https://img.youtube.com/vi/7kgspeYiuJE/mqdefault.jpg",
+      },
+      {
+        title: "An Evolutive Sonic Playlist",
+        url: "https://www.youtube.com/watch?v=isbQHVgoR-4",
+        thumbnail: "https://img.youtube.com/vi/isbQHVgoR-4/mqdefault.jpg",
+      },
+      {
+        title: "1h45 of VGMs you *probably* never heard before",
+        url: "https://www.youtube.com/watch?v=Bi38blshBHc",
+        thumbnail: "https://img.youtube.com/vi/Bi38blshBHc/mqdefault.jpg",
+      },
+      {
+        title: "1h25 of VGMs you *probably* heard too much before",
+        url: "https://www.youtube.com/watch?v=lRQETO4fTnk",
+        thumbnail: "https://img.youtube.com/vi/lRQETO4fTnk/mqdefault.jpg",
+      },
+      {
+        title: "(BONUS PLAYLIST) The Best of All the Playlists So Far",
+        url: "https://www.youtube.com/watch?v=6zlzrIoJJuU",
+        thumbnail: "https://img.youtube.com/vi/6zlzrIoJJuU/mqdefault.jpg",
+      },
+      
     ],
     Chill: [
       {
@@ -1666,36 +1812,6 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=3CbJNKYe2nA",
         thumbnail: "https://img.youtube.com/vi/3CbJNKYe2nA/mqdefault.jpg",
       },
-      {
-        title: "2h30 of BASS Through VGMs",
-        url: "https://www.youtube.com/watch?v=raSWy3RiiKw",
-        thumbnail: "https://img.youtube.com/vi/raSWy3RiiKw/mqdefault.jpg",
-      },
-      {
-        title: "2h25 of *more* BASS Through VGMs",
-        url: "https://www.youtube.com/watch?v=NGLhfw1rnyE",
-        thumbnail: "https://img.youtube.com/vi/NGLhfw1rnyE/mqdefault.jpg",
-      },
-      {
-        title: "2h20 of *even more* BASS Through VGMs",
-        url: "https://www.youtube.com/watch?v=uCSFUwoWQH8",
-        thumbnail: "https://img.youtube.com/vi/uCSFUwoWQH8/mqdefault.jpg",
-      },
-      {
-        title: "2h30 of Jamming Through VGMs",
-        url: "https://youtu.be/MEj_hROnLAo",
-        thumbnail: "https://img.youtube.com/vi/MEj_hROnLAo/mqdefault.jpg",
-      },
-      {
-        title: "2 Hours of Jamming Through VGMs (With More Trumpets)",
-        url: "https://youtu.be/4W09K9Gxp5w",
-        thumbnail: "https://img.youtube.com/vi/4W09K9Gxp5w/mqdefault.jpg",
-      },
-      {
-        title: "1h30 of Jamming Through VGM Volume 3 (With Even More Trumpets)",
-        url: "https://youtu.be/plK9DOl1oTQ",
-        thumbnail: "https://img.youtube.com/vi/plK9DOl1oTQ/mqdefault.jpg",
-      },
     ],
     Thèmes: [
       {
@@ -1757,26 +1873,6 @@ document.addEventListener("DOMContentLoaded", () => {
         title: "Laidback Fighting Game Music for One Hour",
         url: "https://www.youtube.com/watch?v=_C9v6aQ6xG4",
         thumbnail: "https://img.youtube.com/vi/_C9v6aQ6xG4/mqdefault.jpg",
-      },      
-      {
-        title: "3 Hours of Adventure Through VGMs",
-        url: "https://youtu.be/jdWX3UeD5-k",
-        thumbnail: "https://img.youtube.com/vi/jdWX3UeD5-k/mqdefault.jpg",
-      },
-      {
-        title: "3 Hours of Adventure Through VGMs : Volume 2",
-        url: "https://www.youtube.com/watch?v=Ai3tBIEgahg",
-        thumbnail: "https://img.youtube.com/vi/Ai3tBIEgahg/mqdefault.jpg",
-      },
-      {
-        title: "1h45 of VGMs you *probably* never heard before",
-        url: "https://www.youtube.com/watch?v=Bi38blshBHc",
-        thumbnail: "https://img.youtube.com/vi/Bi38blshBHc/mqdefault.jpg",
-      },
-      {
-        title: "1h25 of VGMs you *probably* heard too much before",
-        url: "https://www.youtube.com/watch?v=lRQETO4fTnk",
-        thumbnail: "https://img.youtube.com/vi/lRQETO4fTnk/mqdefault.jpg",
       },
       {
         title: "Golf Game Jazz Fusion (& Funk)",
@@ -1787,46 +1883,6 @@ document.addEventListener("DOMContentLoaded", () => {
         title: "Video Game Psychedelia (Playlist)",
         url: "https://www.youtube.com/watch?v=5Cg7n5OCLzg",
         thumbnail: "https://img.youtube.com/vi/5Cg7n5OCLzg/mqdefault.jpg",
-      },
-      {
-        title: "2 Hours of Video Game Music that goes HARD",
-        url: "https://www.youtube.com/watch?v=tGC8fozE8_k",
-        thumbnail: "https://img.youtube.com/vi/tGC8fozE8_k/mqdefault.jpg",
-      },
-      {
-        title: "2 Hours of Video Game Music that goes even HARDER",
-        url: "https://www.youtube.com/watch?v=g9wwdrKRm48",
-        thumbnail: "https://img.youtube.com/vi/g9wwdrKRm48/mqdefault.jpg",
-      },
-      {
-        title: "1h40 of Video Game Music to Drink a Little, Gamble a Lot (dans le jeu)",
-        url: "https://www.youtube.com/watch?v=kLu_LUkxVT4",
-        thumbnail: "https://img.youtube.com/vi/kLu_LUkxVT4/mqdefault.jpg",
-      },
-      {
-        title: "Video Game Music for doing something evil like infiltrating a base",
-        url: "https://www.youtube.com/watch?v=7fTY355Uoj8",
-        thumbnail: "https://img.youtube.com/vi/7fTY355Uoj8/mqdefault.jpg",
-      },
-      {
-        title: "2 Hours of Racing Games Music : Face A",
-        url: "https://www.youtube.com/watch?v=Jvisf_DEjSk",
-        thumbnail: "https://img.youtube.com/vi/Jvisf_DEjSk/mqdefault.jpg",
-      },
-      {
-        title: "2 Hours of Racing Games Music : Face B",
-        url: "https://www.youtube.com/watch?v=tSqK_n4uR6A",
-        thumbnail: "https://img.youtube.com/vi/tSqK_n4uR6A/mqdefault.jpg",
-      },
-      {
-        title: "3 Hours of Racing Games Music : Face C",
-        url: "https://www.youtube.com/watch?v=qSVawk3gQmU",
-        thumbnail: "https://img.youtube.com/vi/qSVawk3gQmU/mqdefault.jpg",
-      },
-      {
-        title: "(BONUS PLAYLIST) The Best of All the Playlists So Far",
-        url: "https://www.youtube.com/watch?v=6zlzrIoJJuU",
-        thumbnail: "https://img.youtube.com/vi/6zlzrIoJJuU/mqdefault.jpg",
       },
     ],
     Game: [
@@ -1864,36 +1920,6 @@ document.addEventListener("DOMContentLoaded", () => {
         title: "Kirby music that is underappreciated",
         url: "https://www.youtube.com/watch?v=SMkkquj680Q",
         thumbnail: "https://img.youtube.com/vi/SMkkquj680Q/mqdefault.jpg",
-      },
-      {
-        title: "(Not At All) Relaxing Sonic Playlist",
-        url: "https://youtu.be/1eSQj5GsU7s",
-        thumbnail: "https://img.youtube.com/vi/1eSQj5GsU7s/mqdefault.jpg",
-      },
-      {
-        title: "(Not At All) Relaxing Sonic Playlist : Act 2",
-        url: "https://www.youtube.com/watch?v=YUbC-MHF_kE",
-        thumbnail: "https://img.youtube.com/vi/YUbC-MHF_kE/mqdefault.jpg",
-      },
-      {
-        title: "(Not So) Relaxing Dragon Quest Playlist",
-        url: "https://www.youtube.com/watch?v=wBrsZ85m6ww",
-        thumbnail: "https://img.youtube.com/vi/wBrsZ85m6ww/mqdefault.jpg",
-      },
-      {
-        title: "(Not Really) Relaxing Yu-Gi-Oh! Playlist to Duel People",
-        url: "https://www.youtube.com/watch?v=ieBIIbZFuRk",
-        thumbnail: "https://img.youtube.com/vi/ieBIIbZFuRk/mqdefault.jpg",
-      },
-      {
-        title: "(Still Not) Relaxing Pokémon Playlist",
-        url: "https://www.youtube.com/watch?v=XySTSCG4s7w",
-        thumbnail: "https://img.youtube.com/vi/XySTSCG4s7w/mqdefault.jpg",
-      },
-      {
-        title: "(Definitely Not A) Relaxing Castlevania Playlist",
-        url: "https://www.youtube.com/watch?v=RHV0iIzWvhY",
-        thumbnail: "https://img.youtube.com/vi/RHV0iIzWvhY/mqdefault.jpg",
       },
       {
         title: "drive around the world • Exciting Mario Kart Tour Music🌍",
@@ -2038,11 +2064,6 @@ document.addEventListener("DOMContentLoaded", () => {
         thumbnail: "https://img.youtube.com/vi/f7HwV0rKO2I/mqdefault.jpg",
       },
       {
-        title: "2h30 of Pure NDS Musics",
-        url: "https://www.youtube.com/watch?v=bU3YI-epj5g",
-        thumbnail: "https://img.youtube.com/vi/bU3YI-epj5g/mqdefault.jpg",
-      },
-      {
         title: "a nostalgic Nintendo Wii U music mix",
         url: "https://www.youtube.com/watch?v=iGpqLkOu-j0",
         thumbnail: "https://img.youtube.com/vi/iGpqLkOu-j0/mqdefault.jpg",
@@ -2081,16 +2102,6 @@ document.addEventListener("DOMContentLoaded", () => {
         title: "☆Nintendo DS Breakcore/House mix☆ (w some crack here and there)",
         url: "https://www.youtube.com/watch?v=DJPZOFeRv_4",
         thumbnail: "https://img.youtube.com/vi/DJPZOFeRv_4/mqdefault.jpg",
-      },
-      {
-        title: "2h45 of Pure PS1 Music",
-        url: "https://youtu.be/_GW-BD0WoEk",
-        thumbnail: "https://img.youtube.com/vi/_GW-BD0WoEk/mqdefault.jpg",
-      },
-      {
-        title: "sᴇɢᴀ 𝐃𝐫𝐞𝐚𝐦𝐜𝐚𝐬𝐭 ᵐᵘˢⁱᶜ [ᴘᴛ. 2] 🌀",
-        url: "https://www.youtube.com/watch?v=5rbnBuG03lg",
-        thumbnail: "https://img.youtube.com/vi/5rbnBuG03lg/mqdefault.jpg",
       },
     ],
     Nintendo: [
@@ -2262,11 +2273,6 @@ document.addEventListener("DOMContentLoaded", () => {
         thumbnail: "https://img.youtube.com/vi/N8mqLn_pIb4/mqdefault.jpg",
       },
       {
-        title: "(Still Not) Relaxing Pokémon Playlist",
-        url: "https://www.youtube.com/watch?v=XySTSCG4s7w",
-        thumbnail: "https://img.youtube.com/vi/XySTSCG4s7w/mqdefault.jpg",
-      },
-      {
         title: "Pokemon's best Route Themes, reviewing your journey and adventure.",
         url: "https://www.youtube.com/watch?v=FBkUv1NRIpU",
         thumbnail: "https://img.youtube.com/vi/FBkUv1NRIpU/mqdefault.jpg",
@@ -2345,11 +2351,6 @@ document.addEventListener("DOMContentLoaded", () => {
         title: "POKéMON ᵐᵘˢⁱᶜ",
         url: "https://www.youtube.com/watch?v=N0PJA31Nlzg",
         thumbnail: "https://img.youtube.com/vi/N0PJA31Nlzg/mqdefault.jpg",
-      },
-      {
-        title: "An Evolutive Pokémon Playlist",
-        url: "https://www.youtube.com/watch?v=m_D04SnTgnM",
-        thumbnail: "https://img.youtube.com/vi/m_D04SnTgnM/mqdefault.jpg",
       },
     ],
     Lofi: [
