@@ -1025,31 +1025,6 @@ document.addEventListener("DOMContentLoaded", () => {
         thumbnail: "https://img.youtube.com/vi/TqCDucdAEII/mqdefault.jpg",
       },
       {
-        title: "5 HOURS of Upbeat Music from Mario RPGs",
-        url: "https://www.youtube.com/watch?v=a7L-lBYW5jQ",
-        thumbnail: "https://img.youtube.com/vi/a7L-lBYW5jQ/mqdefault.jpg",
-      },
-      {
-        title: "3 HOURS of Chill and Relaxing Pikmin Music",
-        url: "https://www.youtube.com/watch?v=tiTRdduwUZ8",
-        thumbnail: "https://img.youtube.com/vi/tiTRdduwUZ8/mqdefault.jpg",
-      },
-      {
-        title: "8 HOURS of Upbeat Kirby Music",
-        url: "https://www.youtube.com/watch?v=TF-v6Jdk4zw",
-        thumbnail: "https://img.youtube.com/vi/TF-v6Jdk4zw/mqdefault.jpg",
-      },
-      {
-        title: "6 HOURS of Energetic Mario Kart Music",
-        url: "https://www.youtube.com/watch?v=XXEHsRHz-l0",
-        thumbnail: "https://img.youtube.com/vi/XXEHsRHz-l0/mqdefault.jpg",
-      },
-      {
-        title: "12 HOURS of Upbeat and Iconic Sonic Music",
-        url: "https://www.youtube.com/watch?v=ysyr3CycwOs",
-        thumbnail: "https://img.youtube.com/vi/ysyr3CycwOs/mqdefault.jpg",
-      },
-      {
         title: "Zelda music that is underappreciated",
         url: "https://www.youtube.com/watch?v=NH9aF0wpohk",
         thumbnail: "https://img.youtube.com/vi/NH9aF0wpohk/mqdefault.jpg",
@@ -1145,11 +1120,6 @@ document.addEventListener("DOMContentLoaded", () => {
         thumbnail: "https://img.youtube.com/vi/d6nBRzRMUag/mqdefault.jpg",
       },
       {
-        title: "The Best of Splatoon 1, 2 & 3 Music",
-        url: "https://www.youtube.com/watch?v=xBp0lXl50Io",
-        thumbnail: "https://img.youtube.com/vi/xBp0lXl50Io/mqdefault.jpg",
-      },
-      {
         title: "SONIC FRONTIERS • Energetic & Epic Music Mix⚡",
         url: "https://www.youtube.com/watch?v=YGG5ICYE3fo",
         thumbnail: "https://img.youtube.com/vi/YGG5ICYE3fo/mqdefault.jpg",
@@ -1193,11 +1163,6 @@ document.addEventListener("DOMContentLoaded", () => {
         title: "2 hours of silly Ace Attorney music for an empty head",
         url: "https://www.youtube.com/watch?v=mTvOpbkirGk",
         thumbnail: "https://img.youtube.com/vi/mTvOpbkirGk/mqdefault.jpg",
-      },
-      {
-        title: "Happy and Nostalgic music from the Mario Kart series",
-        url: "https://www.youtube.com/watch?v=lr359-SEHkY",
-        thumbnail: "https://img.youtube.com/vi/lr359-SEHkY/mqdefault.jpg",
       },
       {
         title: "🎧 persona playlist.:・°☆.:・°",
@@ -1587,11 +1552,6 @@ document.addEventListener("DOMContentLoaded", () => {
     ],
     Console: [
       {
-        title: "10 HOURS of Nostalgic GameCube Music",
-        url: "https://www.youtube.com/watch?v=Wx5L2-Gf1nI",
-        thumbnail: "https://img.youtube.com/vi/Wx5L2-Gf1nI/mqdefault.jpg",
-      },
-      {
         title: "Relaxing PS1 Music (100 songs) - Part 1",
         url: "https://www.youtube.com/watch?v=6cp-gVPsHWw",
         thumbnail: "https://img.youtube.com/vi/6cp-gVPsHWw/mqdefault.jpg",
@@ -1660,16 +1620,6 @@ document.addEventListener("DOMContentLoaded", () => {
         title: "2h45 of Pure PS1 Music",
         url: "https://youtu.be/_GW-BD0WoEk",
         thumbnail: "https://img.youtube.com/vi/_GW-BD0WoEk/mqdefault.jpg",
-      },
-      {
-        title: "✧OBSCURE DS BOPS ONLY ✧ PLAYLIST",
-        url: "https://youtu.be/nldnknsOTm4",
-        thumbnail: "https://img.youtube.com/vi/nldnknsOTm4/mqdefault.jpg",
-      },
-      {
-        title: "✧ MORE OBSCURE DS BOPS ✧ PLAYLIST #2",
-        url: "https://youtu.be/EW-obdl15rc",
-        thumbnail: "https://img.youtube.com/vi/EW-obdl15rc/mqdefault.jpg",
       },
       {
         title: "sᴇɢᴀ 𝐃𝐫𝐞𝐚𝐦𝐜𝐚𝐬𝐭 ᵐᵘˢⁱᶜ [ᴘᴛ. 2] 🌀",
@@ -1924,11 +1874,6 @@ document.addEventListener("DOMContentLoaded", () => {
         title: "2 Hour of Nostalgic Pokemon Music - Best Pokemon Playlist of 2024",
         url: "https://www.youtube.com/watch?v=efIYDALzVJ4",
         thumbnail: "https://img.youtube.com/vi/efIYDALzVJ4/mqdefault.jpg",
-      },
-      {
-        title: "pokemon videogame music but it's too nostalgic and relax.",
-        url: "https://www.youtube.com/watch?v=bvQu3tG3HLs",
-        thumbnail: "https://img.youtube.com/vi/bvQu3tG3HLs/mqdefault.jpg",
       },
       {
         title: "POKéMON ᵐᵘˢⁱᶜ",
