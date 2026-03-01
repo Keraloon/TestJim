@@ -111,6 +111,7 @@ body {
     position: fixed;
     top: 80px;
     left: 20px;
+    overflow-y: auto;
 }
 
 
@@ -123,7 +124,6 @@ body {
     cursor: pointer;
     font-size: 16px;
     transition: background-color 0.3s;
-    overflow-y: auto;
 }
 
 :root {
