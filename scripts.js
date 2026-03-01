@@ -1287,6 +1287,115 @@ document.addEventListener("DOMContentLoaded", () => {
         thumbnail: "https://img.youtube.com/vi/oKao9LAzkUc/mqdefault.jpg",
       },
     ],
+    RinCity: [
+      {
+        title: "vgm that tickles my brain",
+        url: "https://www.youtube.com/watch?v=7CWu8VrPyUk",
+        thumbnail: "https://img.youtube.com/vi/7CWu8VrPyUk/mqdefault.jpg",
+      },
+      {
+        title: "spring blossoms: vgm playlist",
+        url: "https://www.youtube.com/watch?v=ZR_8uQ1D0Og",
+        thumbnail: "https://img.youtube.com/vi/ZR_8uQ1D0Og/mqdefault.jpg",
+      },
+      {
+        title: "die lit: vgm playlist",
+        url: "https://www.youtube.com/watch?v=FA0ne9clAPQ",
+        thumbnail: "https://img.youtube.com/vi/FA0ne9clAPQ/mqdefault.jpg",
+      },
+      {
+        title: "vgm that's a lil goofy",
+        url: "https://www.youtube.com/watch?v=OeToTT0hKv4",
+        thumbnail: "https://img.youtube.com/vi/OeToTT0hKv4/mqdefault.jpg",
+      },
+      {
+        title: "vgm that'll move you",
+        url: "https://www.youtube.com/watch?v=4-va0_nQubU",
+        thumbnail: "https://img.youtube.com/vi/4-va0_nQubU/mqdefault.jpg",
+      },
+      {
+        title: "vgm that will activate your brain worm",
+        url: "https://www.youtube.com/watch?v=LMuQZLxA4ow",
+        thumbnail: "https://img.youtube.com/vi/LMuQZLxA4ow/mqdefault.jpg",
+      },
+      {
+        title: "vgm that'll move you pt. 2",
+        url: "https://www.youtube.com/watch?v=3G1OnsjWvpI",
+        thumbnail: "https://img.youtube.com/vi/3G1OnsjWvpI/mqdefault.jpg",
+      },
+      {
+        title: "pokemon jams: vgm playlist",
+        url: "https://www.youtube.com/watch?v=iauG4_Ujcc8",
+        thumbnail: "https://img.youtube.com/vi/iauG4_Ujcc8/mqdefault.jpg",
+      },
+      {
+        title: "vgm for when ur feeling a lil silly and a lil chill",
+        url: "https://www.youtube.com/watch?v=X7G_DbB8Eo8",
+        thumbnail: "https://img.youtube.com/vi/X7G_DbB8Eo8/mqdefault.jpg",
+      },
+      {
+        title: "vgm that's too groovy",
+        url: "https://www.youtube.com/watch?v=vq7Jy8Q_DXE",
+        thumbnail: "https://img.youtube.com/vi/vq7Jy8Q_DXE/mqdefault.jpg",
+      },
+      {
+        title: "summer time lovin': vgm playlist",
+        url: "https://www.youtube.com/watch?v=ueD85R-V_3Q",
+        thumbnail: "https://img.youtube.com/vi/ueD85R-V_3Q/mqdefault.jpg",
+      },
+      {
+        title: "vgm that'll leave you thinkin'",
+        url: "https://www.youtube.com/watch?v=5-pSQrMe_wk",
+        thumbnail: "https://img.youtube.com/vi/5-pSQrMe_wk/mqdefault.jpg",
+      },
+      {
+        title: "vgm that will make you dance",
+        url: "https://www.youtube.com/watch?v=txgg5wweTnQ",
+        thumbnail: "https://img.youtube.com/vi/txgg5wweTnQ/mqdefault.jpg",
+      },
+      {
+        title: "vgm that was born on the cob",
+        url: "https://www.youtube.com/watch?v=C_q8jh-2E8U",
+        thumbnail: "https://img.youtube.com/vi/C_q8jh-2E8U/mqdefault.jpg",
+      },
+      {
+        title: "spooky autumn breeze: vgm playlist",
+        url: "https://www.youtube.com/watch?v=K4fDgbM5rmw",
+        thumbnail: "https://img.youtube.com/vi/K4fDgbM5rmw/mqdefault.jpg",
+      },
+      {
+        title: "winter in rincity - vgm playlist",
+        url: "https://www.youtube.com/watch?v=Wu0Ew_C_feg",
+        thumbnail: "https://img.youtube.com/vi/Wu0Ew_C_feg/mqdefault.jpg",
+      },
+      {
+        title: "cute and quirky vgm that will give you the love bug - valentine's day vgm playlist",
+        url: "https://www.youtube.com/watch?v=6P1oMsSXUpw",
+        thumbnail: "https://img.youtube.com/vi/6P1oMsSXUpw/mqdefault.jpg",
+      },
+      {
+        title: "vgm that'll make you LOVE sand",
+        url: "https://www.youtube.com/watch?v=r9ZvUg_8aAo",
+        thumbnail: "https://img.youtube.com/vi/r9ZvUg_8aAo/mqdefault.jpg",
+      },
+      {
+        title: "vgm to help you find that 4th chaos emerald",
+        url: "https://www.youtube.com/watch?v=Bg-mVGCDQJo",
+        thumbnail: "https://img.youtube.com/vi/Bg-mVGCDQJo/mqdefault.jpg",
+      },
+      {
+        title: "fun and siwwy vgm fow apwiw foows?!! OwO",
+        url: "https://www.youtube.com/watch?v=Gy5IXVx5QA0",
+        thumbnail: "https://img.youtube.com/vi/Gy5IXVx5QA0/mqdefault.jpg",
+      },
+    ],
+    Kera: [
+      {
+        title: "",
+        url: "https://www.youtube.com/watch?v=end4JNSRRxs",
+        thumbnail: "https://img.youtube.com/vi/end4JNSRRxs/mqdefault.jpg",
+      },
+    ],
     Chill: [
       {
         title: "video game music for your summer break",
