@@ -1206,6 +1206,86 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=5e_SPMKyosk",
         thumbnail: "https://img.youtube.com/vi/5e_SPMKyosk/mqdefault.jpg",
       },
+      {
+        title: "ɴɪɴᴛᴇɴᴅᴏ ６４ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=xOtdlVEu5oI",
+        thumbnail: "https://img.youtube.com/vi/xOtdlVEu5oI/mqdefault.jpg",
+      },
+      {
+        title: "sᴇɢᴀ 𝐃𝐫𝐞𝐚𝐦𝐜𝐚𝐬𝐭 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=OlmemAvbVzo",
+        thumbnail: "https://img.youtube.com/vi/OlmemAvbVzo/mqdefault.jpg",
+      },
+      {
+        title: "ＰＳ２ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=2LfdrjIPLT0",
+        thumbnail: "https://img.youtube.com/vi/2LfdrjIPLT0/mqdefault.jpg",
+      },
+      {
+        title: "𝙶𝙰𝙼𝙴𝙲𝚄𝙱𝙴 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=9L8d5VpxZzg",
+        thumbnail: "https://img.youtube.com/vi/9L8d5VpxZzg/mqdefault.jpg",
+      },
+      {
+        title: "sᴇɢᴀ 𝐒𝐀𝐓𝐔𝐑𝐍 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=ATTSovlR-n4",
+        thumbnail: "https://img.youtube.com/vi/ATTSovlR-n4/mqdefault.jpg",
+      },
+      {
+        title: "ɴɪɴᴛᴇɴᴅᴏ ＤＳᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=PAQDwNfnBRo",
+        thumbnail: "https://img.youtube.com/vi/PAQDwNfnBRo/mqdefault.jpg",
+      },
+      {
+        title: "ＰＳＰᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=XMRDaLKK8SQ",
+        thumbnail: "https://img.youtube.com/vi/XMRDaLKK8SQ/mqdefault.jpg",
+      },
+      {
+        title: "ɴɪɴᴛᴇɴᴅᴏ 𝐖𝐢𝐢 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=YRINjkbI_to",
+        thumbnail: "https://img.youtube.com/vi/YRINjkbI_to/mqdefault.jpg",
+      },
+      {
+        title: "ＰＳ３ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=SIM039V6Qtk",
+        thumbnail: "https://img.youtube.com/vi/SIM039V6Qtk/mqdefault.jpg",
+      },
+      {
+        title: "xʙᴏx ３６０ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=uKqOHtp443Y",
+        thumbnail: "https://img.youtube.com/vi/uKqOHtp443Y/mqdefault.jpg",
+      },
+      {
+        title: "ＰＳ ᴠɪᴛᴀ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=LAIxQ_r8Qsw",
+        thumbnail: "https://img.youtube.com/vi/LAIxQ_r8Qsw/mqdefault.jpg",
+      },
+      {
+        title: "ɴɪɴᴛᴇɴᴅᴏ３ＤＳ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=caQ_H-FbLsM",
+        thumbnail: "https://img.youtube.com/vi/caQ_H-FbLsM/mqdefault.jpg",
+      },
+      {
+        title: "ɴɪɴᴛᴇɴᴅᴏ 𝟼𝟺 ᵐᵘˢⁱᶜ [ᴘᴛ. 2]",
+        url: "https://www.youtube.com/watch?v=DU-MxfkL69A",
+        thumbnail: "https://img.youtube.com/vi/DU-MxfkL69A/mqdefault.jpg",
+      },
+      {
+        title: "PS one ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=fnGhINiLB1w",
+        thumbnail: "https://img.youtube.com/vi/fnGhINiLB1w/mqdefault.jpg",
+      },
+      {
+        title: "𝐍𝐢𝐧𝐭𝐞𝐧𝐝𝐨 𝐖𝐢𝐢 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=rb6uTJQk3Zo",
+        thumbnail: "https://img.youtube.com/vi/rb6uTJQk3Zo/mqdefault.jpg",
+      },
+      {
+        title: "𝐍𝐢𝐧𝐭𝐞𝐧𝐝𝐨 3DS ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=oKao9LAzkUc",
+        thumbnail: "https://img.youtube.com/vi/oKao9LAzkUc/mqdefault.jpg",
+      },
     ],
     Chill: [
       {
