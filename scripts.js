@@ -1172,6 +1172,11 @@ document.addEventListener("DOMContentLoaded", () => {
         thumbnail: "https://img.youtube.com/vi/ODTMK5Qu30M/mqdefault.jpg",
       },
       {
+        title: "𝚃𝚁𝙰𝚄𝙼𝙰 𝙲𝙴𝙽𝚃𝙴𝚁: ɴᴇᴡ ʙʟᴏᴏᴅ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=DMvudtbLBGc",
+        thumbnail: "https://img.youtube.com/vi/DMvudtbLBGc/mqdefault.jpg",
+      },
+      {
         title: "𝐏𝐥𝐚𝐲𝐒𝐭𝐚𝐭𝐢𝐨𝐧 𝐇𝐨𝐦𝐞 ᵐᵘˢⁱᶜ",
         url: "https://www.youtube.com/watch?v=dg2BGzxp0Jk",
         thumbnail: "https://img.youtube.com/vi/dg2BGzxp0Jk/mqdefault.jpg",
