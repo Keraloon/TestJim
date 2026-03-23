@@ -569,6 +569,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=CjRZcLzQ89w",
         thumbnail: "https://img.youtube.com/vi/CjRZcLzQ89w/mqdefault.jpg",
       },
+      {
+        title: "Serene Little Video Game Songs for Planting Seeds in Your Garden",
+        url: "https://www.youtube.com/watch?v=fpvvqGDxvRA",
+        thumbnail: "https://img.youtube.com/vi/fpvvqGDxvRA/mqdefault.jpg",
+      },
     ],
     BigBool: [
       {
