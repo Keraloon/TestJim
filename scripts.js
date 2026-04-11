@@ -574,6 +574,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=fpvvqGDxvRA",
         thumbnail: "https://img.youtube.com/vi/fpvvqGDxvRA/mqdefault.jpg",
       },
+      {
+        title: "Video Game Music To Blast in a Public Restroom",
+        url: "https://www.youtube.com/watch?v=whKjp91AtIM",
+        thumbnail: "https://img.youtube.com/vi/whKjp91AtIM/mqdefault.jpg",
+      },
     ],
     BigBool: [
       {
@@ -1296,6 +1301,66 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=oKao9LAzkUc",
         thumbnail: "https://img.youtube.com/vi/oKao9LAzkUc/mqdefault.jpg",
       },
+      {
+        title: "𝚃𝚁𝙰𝚄𝙼𝙰 𝙲𝙴𝙽𝚃𝙴𝚁: ɴᴇᴡ ʙʟᴏᴏᴅ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=DMvudtbLBGc",
+        thumbnail: "https://img.youtube.com/vi/DMvudtbLBGc/mqdefault.jpg",
+      },
+      {
+        title: "𝐂𝐀𝐏𝐂𝐎𝐌 ᴠs. 𝕊ℕ𝕂 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=n7VZrbL1WIY",
+        thumbnail: "https://img.youtube.com/vi/n7VZrbL1WIY/mqdefault.jpg",
+      },
+      {
+        title: "𝐊𝐚𝐭𝐚𝐦𝐚𝐫𝐢 𝐃𝐚𝐦𝐚𝐜𝐲 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=9dp-h0Oz0E8",
+        thumbnail: "https://img.youtube.com/vi/9dp-h0Oz0E8/mqdefault.jpg",
+      },
+      {
+        title: "ᴏʀɪɢɪɴᴀʟＸＢＯＸ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=ha4FerFQYso",
+        thumbnail: "https://img.youtube.com/vi/ha4FerFQYso/mqdefault.jpg",
+      },
+      {
+        title: "Coffee Talk ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=TBLsceQREHw",
+        thumbnail: "https://img.youtube.com/vi/TBLsceQREHw/mqdefault.jpg",
+      },
+      {
+        title: "music to horse around to | chill horse racing vgm 🐴",
+        url: "https://www.youtube.com/watch?v=WmCqSX_ttJs",
+        thumbnail: "https://img.youtube.com/vi/WmCqSX_ttJs/mqdefault.jpg",
+      },
+      {
+        title: "𝐏𝐡𝐨𝐞𝐧𝐢𝐱 𝐖𝐫𝐢𝐠𝐡𝐭: ᴀᴄᴇ ᴀᴛᴛᴏʀɴᴇʏ ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=oMBK0ycxOy4",
+        thumbnail: "https://img.youtube.com/vi/oMBK0ycxOy4/mqdefault.jpg",
+      },
+      {
+        title: "𝔸ℝ𝕀𝕂𝔸 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=KR6K0hGF78U",
+        thumbnail: "https://img.youtube.com/vi/KR6K0hGF78U/mqdefault.jpg",
+      },
+      {
+        title: "music to fish to 🎣 cozy fishing vgm",
+        url: "https://www.youtube.com/watch?v=qzPWlLWTJVM",
+        thumbnail: "https://img.youtube.com/vi/qzPWlLWTJVM/mqdefault.jpg",
+      },
+      {
+        title: "𝙂𝙍𝘼𝙉 𝙏𝙐𝙍𝙄𝙎𝙈𝙊 5 ᵐᵘˢⁱᶜ",
+        url: "https://www.youtube.com/watch?v=vdrSSXmnoCY",
+        thumbnail: "https://img.youtube.com/vi/vdrSSXmnoCY/mqdefault.jpg",
+      },
+      {
+        title: "digital retail therapy 🛒 shopping vgm",
+        url: "https://www.youtube.com/watch?v=9m04sz61Vys",
+        thumbnail: "https://img.youtube.com/vi/9m04sz61Vys/mqdefault.jpg",
+      },
+      {
+        title: "funky beats vol. 1 💿: naganuma edition",
+        url: "https://www.youtube.com/watch?v=FCYDReK1xAs",
+        thumbnail: "https://img.youtube.com/vi/FCYDReK1xAs/mqdefault.jpg",
+      },
     ],
     RinCity: [
       {
@@ -1509,6 +1574,11 @@ document.addEventListener("DOMContentLoaded", () => {
         title: "(Definitely Not A) Relaxing Castlevania Playlist",
         url: "https://www.youtube.com/watch?v=RHV0iIzWvhY",
         thumbnail: "https://img.youtube.com/vi/RHV0iIzWvhY/mqdefault.jpg",
+      },
+      {
+        title: "(Probably a) Relaxing LaTale Playlist",
+        url: "https://www.youtube.com/watch?v=HwwCPyYku94",
+        thumbnail: "https://img.youtube.com/vi/HwwCPyYku94/mqdefault.jpg",
       },
       {
         title: "2h30 of Pure NDS Musics",
