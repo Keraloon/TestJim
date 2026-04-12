@@ -2432,6 +2432,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=N0PJA31Nlzg",
         thumbnail: "https://img.youtube.com/vi/N0PJA31Nlzg/mqdefault.jpg",
       },
+      {
+        title: "Hype Pokémon Music (Up to Legends Z-A)",
+        url: "https://www.youtube.com/watch?v=ixNh3kOEgTM",
+        thumbnail: "https://img.youtube.com/vi/ixNh3kOEgTM/mqdefault.jpg",
+      },
     ],
     Lofi: [
       {
