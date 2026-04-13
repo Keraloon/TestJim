@@ -579,6 +579,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=whKjp91AtIM",
         thumbnail: "https://img.youtube.com/vi/whKjp91AtIM/mqdefault.jpg",
       },
+      {
+        title: "Video Game Music For Reading Deep Into The Night Instead of Sleeping",
+        url: "https://www.youtube.com/watch?v=lnnbAecVh2U",
+        thumbnail: "https://img.youtube.com/vi/lnnbAecVh2U/mqdefault.jpg",
+      },
     ],
     BigBool: [
       {
