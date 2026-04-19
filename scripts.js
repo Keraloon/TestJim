@@ -2126,6 +2126,46 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=CV7HrNA68zQ",
         thumbnail: "https://img.youtube.com/vi/CV7HrNA68zQ/mqdefault.jpg",
       },
+      {
+        title: "Nostalgic & relaxing Sonic music you've never forgotten.",
+        url: "https://www.youtube.com/watch?v=T9TWNdUu_28",
+        thumbnail: "https://img.youtube.com/vi/T9TWNdUu_28/mqdefault.jpg",
+      },
+      {
+        title: "The best Sonic music to chill, study and game to.",
+        url: "https://www.youtube.com/watch?v=3PtgZWFsR2Q",
+        thumbnail: "https://img.youtube.com/vi/3PtgZWFsR2Q/mqdefault.jpg",
+      },
+      {
+        title: "Nostalgic Sonic music for when you are stressed.",
+        url: "https://www.youtube.com/watch?v=GUNL_QC-6kQ",
+        thumbnail: "https://img.youtube.com/vi/GUNL_QC-6kQ/mqdefault.jpg",
+      },
+      {
+        title: "Nostalgic Sonic music, but it’s study, work for a productive day.",
+        url: "https://www.youtube.com/watch?v=od6BFD6EfA0",
+        thumbnail: "https://img.youtube.com/vi/od6BFD6EfA0/mqdefault.jpg",
+      },
+      {
+        title: "Sonic Music (music for study, chill, work, relax)",
+        url: "https://www.youtube.com/watch?v=QmV45LS3hGI",
+        thumbnail: "https://img.youtube.com/vi/QmV45LS3hGI/mqdefault.jpg",
+      },
+      {
+        title: "Nostalgic Sonic music but it’s my favorite start the day",
+        url: "https://www.youtube.com/watch?v=I-S8ZG_Um6M",
+        thumbnail: "https://img.youtube.com/vi/I-S8ZG_Um6M/mqdefault.jpg",
+      },
+      {
+        title: "Sonic winter music playing outside the room ⛄",
+        url: "https://www.youtube.com/watch?v=XsMn3RdF-Cs",
+        thumbnail: "https://img.youtube.com/vi/XsMn3RdF-Cs/mqdefault.jpg",
+      },
+      {
+        title: "Nostalgic & chill Sonic music playlist to get to work!",
+        url: "https://www.youtube.com/watch?v=6VtVnD92xmk",
+        thumbnail: "https://img.youtube.com/vi/6VtVnD92xmk/mqdefault.jpg",
+      },
     ],
     Console: [
       {
