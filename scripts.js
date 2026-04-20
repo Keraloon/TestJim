@@ -584,6 +584,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=lnnbAecVh2U",
         thumbnail: "https://img.youtube.com/vi/lnnbAecVh2U/mqdefault.jpg",
       },
+      {
+        title: "Video Game Music to Speedrun Your Homework Before the Teacher Gets to Your Desk",
+        url: "https://www.youtube.com/watch?v=yIQlB4wUncI",
+        thumbnail: "https://img.youtube.com/vi/yIQlB4wUncI/mqdefault.jpg",
+      },
     ],
     BigBool: [
       {
