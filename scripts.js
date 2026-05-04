@@ -589,6 +589,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=yIQlB4wUncI",
         thumbnail: "https://img.youtube.com/vi/yIQlB4wUncI/mqdefault.jpg",
       },
+      {
+        title: "Cutesy Video Game Music to Face the Chaos of Life To",
+        url: "https://www.youtube.com/watch?v=hY5yixk8UTc",
+        thumbnail: "https://img.youtube.com/vi/hY5yixk8UTc/mqdefault.jpg",
+      },
     ],
     BigBool: [
       {
