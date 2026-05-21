@@ -594,6 +594,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=hY5yixk8UTc",
         thumbnail: "https://img.youtube.com/vi/hY5yixk8UTc/mqdefault.jpg",
       },
+      {
+        title: "A Playlist for Picking Up A Pencil and Making Art With Your Own Two Hands and Love In Your Heart",
+        url: "https://www.youtube.com/watch?v=ULnG1_OGja4",
+        thumbnail: "https://img.youtube.com/vi/ULnG1_OGja4/mqdefault.jpg",
+      },
     ],
     BigBool: [
       {
