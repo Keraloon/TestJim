@@ -599,6 +599,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=ULnG1_OGja4",
         thumbnail: "https://img.youtube.com/vi/ULnG1_OGja4/mqdefault.jpg",
       },
+      {
+        title: "Battle Themes to Defeat Your Enemies To",
+        url: "https://www.youtube.com/watch?v=QThuKmYp5Ws",
+        thumbnail: "https://img.youtube.com/vi/QThuKmYp5Ws/mqdefault.jpg",
+      },
     ],
     BigBool: [
       {
