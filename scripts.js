@@ -604,6 +604,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=QThuKmYp5Ws",
         thumbnail: "https://img.youtube.com/vi/QThuKmYp5Ws/mqdefault.jpg",
       },
+      {
+        title: "Video Game Music to Make Your Night Walk a Little More Eerie and Mystical",
+        url: "https://www.youtube.com/watch?v=4KC2LF047Ms",
+        thumbnail: "https://img.youtube.com/vi/4KC2LF047Ms/mqdefault.jpg",
+      },
     ],
     BigBool: [
       {
