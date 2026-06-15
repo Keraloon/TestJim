@@ -609,6 +609,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=4KC2LF047Ms",
         thumbnail: "https://img.youtube.com/vi/4KC2LF047Ms/mqdefault.jpg",
       },
+      {
+        title: "Video Game Music To Ponder the Setting Sun To",
+        url: "https://www.youtube.com/watch?v=d6ndXTI5FF0",
+        thumbnail: "https://img.youtube.com/vi/d6ndXTI5FF0/mqdefault.jpg",
+      },
     ],
     BigBool: [
       {
