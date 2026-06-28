@@ -614,6 +614,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=d6ndXTI5FF0",
         thumbnail: "https://img.youtube.com/vi/d6ndXTI5FF0/mqdefault.jpg",
       },
+      {
+        title: "Sky Themes To Collect Sticks, Lay Eggs, and Steal Fries To",
+        url: "https://www.youtube.com/watch?v=aGz0SymbdK0",
+        thumbnail: "https://img.youtube.com/vi/aGz0SymbdK0/mqdefault.jpg",
+      },
     ],
     BigBool: [
       {
