@@ -2004,6 +2004,11 @@ document.addEventListener("DOMContentLoaded", () => {
         url: "https://www.youtube.com/watch?v=5Cg7n5OCLzg",
         thumbnail: "https://img.youtube.com/vi/5Cg7n5OCLzg/mqdefault.jpg",
       },
+      {
+        title: "2 Hours of Hot Desert Nintendo Music! (Relax/Study/Vibe)",
+        url: "https://www.youtube.com/watch?v=dJA0sFbZwhQ",
+        thumbnail: "https://img.youtube.com/vi/dJA0sFbZwhQ/mqdefault.jpg",
+      },
     ],
     Game: [
       {
